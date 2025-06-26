@@ -1,0 +1,590 @@
+        .modal-overtype-cls-adding-here .modal-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        background: #0fa8a4;
+        padding: 17px 24px;
+        border-radius: 20px 20px 0px 0px;
+      }
+      .modal-overtype-cls-adding-here h6 {
+        font-size: 18px;
+        font-weight: 400;
+      }
+
+      /* ------------------------
+         ACCORDION
+      ------------------------ */
+      .what-we-are-looking-for .accordion {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      .what-we-are-looking-for .accordion-item {
+        color: #000;
+        border-radius: 20px;
+        overflow: hidden;
+      }
+
+      .what-we-are-looking-for .main-accordion-response {
+        padding: 16px 20px;
+        background-color: #fff;
+      }
+
+      .what-we-are-looking-for .accordion-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        cursor: pointer;
+        position: relative;
+      }
+
+      .what-we-are-looking-for .accordion-header h3 {
+        margin-top: 0;
+        font-family: "Urbanist", sans-serif;
+        font-size: 32px;
+        font-weight: 500;
+        margin-bottom: 10px;
+        line-height: 38px;
+        color: #222222;
+      }
+
+      .what-we-are-looking-for .accordion-header .job-info, .what-we-are-looking-for .accordion-header .openings-info {
+        font-family: "Urbanist", sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        color: rgba(34, 34, 34, 0.7);
+      }
+
+      .what-we-are-looking-for .accordion-header .openings-info {
+        margin-left: 20px;
+      }
+
+      .what-we-are-looking-for .apply-btn {
+        background-color: #0fa8a4;
+        color: #fff;
+        border: none;
+        outline: none;
+        padding: 7px 8px 7px 14px;
+        font-family: "Urbanist", sans-serif;
+        font-size: 20px;
+        font-weight: 500;
+        border-radius: 44px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        line-height: 22px;
+        display: flex;
+        align-items: center;
+        gap: 0 12px;
+        border: 1px solid #0fa8a4;
+        text-transform: capitalize;
+      }
+
+      .apply-now-cls-adding {
+        display: flex;
+      }
+
+      .what-we-are-looking-for .apply-btn:hover {
+        color: #0fa8a4;
+        background-color: #ffffff;
+        border-color: #0fa8a4;
+      }
+
+      .what-we-are-looking-for .apply-btn:hover svg {
+        transform: rotate(45deg) !important;
+      }
+
+      .what-we-are-looking-for .accordion-icon {
+        display: none;
+        transition: transform 0.3s ease;
+      }
+
+      .what-we-are-looking-for .apply-btn:hover svg rect {
+        fill: #0fa8a4;
+      }
+      .what-we-are-looking-for .apply-btn:hover svg path {
+        stroke: #ffffff;
+      }
+
+
+      .newmodal-popup-login .apply-now {
+        padding: 8px 16px 8px 16px !important;
+        margin-bottom: 0px;
+        font-family: "Urbanist", Sans-serif;
+        font-size: 20px !important;
+        font-weight: 500 !important;
+        line-height: normal !important;
+        text-transform: capitalize !important;
+        width: 160px;
+        margin-left: auto;
+        text-align: left;
+        margin-right: auto;
+        display: block;
+        border-style: solid !important;
+        border-width: 1px 1px 1px 1px !important;
+        border-radius: 44px 44px 44px 44px !important;
+        color: #FFFFFF !important;
+        background: #0FA8A4;
+        border-color: #0FA8A4 !important;
+        position: relative;
+      }
+
+      .newmodal-popup-login .apply-now:hover {
+        color: #0fa8a4 !important;
+        background-color: #ffffff !important;
+        border-color: #0fa8a4 !important;
+      }
+
+      .newmodal-popup-login .apply-now::after{
+        content: "";
+        display: inline-block;
+        width: 28px;
+        height: 28px;
+        background: white url('data:image/svg+xml,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%0A%3Cpath%20d%3D%22M1%2015.1301L15%201.13013M15%201.13013H4.5M15%201.13013V11.6301%22%20stroke%3D%22%230FA8A4%22%20stroke-width%3D%221.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22/%3E%0A%3C/svg%3E%0A');
+        background-size: 10px;
+        background-position: center;
+        border-radius: 50%;
+        background-repeat: no-repeat;
+        margin-left: 8px;
+        position: absolute;
+        right: 6px;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+
+      .newmodal-popup-login .apply-now:hover::after {
+        background: #0FA8A4 url('data:image/svg+xml,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%0A%3Cpath%20d%3D%22M2%208H14M14%208L8%202M14%208L8%2014%22%20stroke%3D%22white%22%20stroke-width%3D%221.5%22%20stroke-linecap%3D%22round%22%20stroke-linejoin%3D%22round%22/%3E%0A%3C/svg%3E');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 14px;
+      }
+
+      .newmodal-popup-login form.wpcf7-form p{
+        margin: 0;
+      }
+
+      /* ------------------------
+         ACCORDION CONTENT
+      ------------------------ */
+      .what-we-are-looking-for .accordion-content {
+        font-family: "Urbanist", sans-serif;
+        overflow: hidden;
+        background: rgb(255 255 255 / 60%);
+        color: #000;
+        /* Start with minimal vertical padding so it doesn’t occupy extra space */
+        padding: 0 16px;
+        max-height: 0;
+        opacity: 0;
+        transition: max-height 0.5s ease, opacity 0.5s ease, padding 0.5s ease;
+      }
+
+      .what-we-are-looking-for .accordion-content.open {
+        /* Adjust max-height value if content height is larger */
+        max-height: 1000px;
+        opacity: 1;
+        padding: 16px;
+      }
+
+      .what-we-are-looking-for .accordion-content h4 {
+        font-family: "Urbanist", sans-serif;
+        margin-top: 0;
+        margin-bottom: 10px;
+        font-size: 20px;
+        font-weight: 500;
+        color: #222;
+        line-height: 24px;
+      }
+
+      .what-we-are-looking-for .accordion-content p {
+        font-family: "Urbanist", sans-serif;
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 20px;
+        color: rgb(0 0 0 / 70%);
+        max-width: 1248px;
+        word-wrap: break-word;
+        font-weight: 400;
+      }
+
+      .what-we-are-looking-for .accordion-content li:before {
+        content: "";
+        background-image: url('../../../uploads/2025/04/bullet.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        background-color: transparent;
+        top: 1px;
+        position: absolute;
+        left: 0;
+      }
+
+      .what-we-are-looking-for .accordion-content ul {
+        list-style: none;
+        margin-bottom: 0px;
+        padding-left: 0px;
+        margin-left: 0px;
+      }
+
+      .what-we-are-looking-for .accordion-content li {
+        font-family: "Urbanist", sans-serif;
+        font-size: 16px;
+        line-height: normal;        
+        color: rgb(0 0 0 / 70%);
+        font-weight: 400;
+        position: relative;
+        padding-left: 30px;
+        display: flex;
+        align-items: center;
+      }
+      .what-we-are-looking-for .accordion-content li:not(:last-child){
+        margin-bottom: 8px;
+      }
+
+      /* ------------------------
+         MODAL STYLES
+      ------------------------ */
+      .modal-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.6);
+        opacity: 0;
+        visibility: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1000;
+        transition: opacity 0.3s ease, visibility 0.3s ease;
+      }
+      .modal-overlay.active {
+        opacity: 1;
+        visibility: visible;
+      }
+      .modal-content {
+        background: #fff;
+        border-radius: 20px;
+        margin: 0 15px;
+        max-width: 560px;
+        width: 100%;
+        overflow: hidden;
+        transform: translateY(-20px);
+        opacity: 0;
+        transition: transform 0.5s ease, opacity 0.5s ease;
+      }
+      .modal-overlay.active .modal-content {
+        transform: translateY(0);
+        opacity: 1;
+      }
+      .modal-header {
+        background: #0fa8a4;
+        padding: 15px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .modal-header h6 {
+        font-family: "Urbanist", sans-serif;
+        font-size: 32px;
+        line-height: 38px;
+        font-weight: 500;
+        color: #fff;
+        margin: 0;
+      }
+      .modal-close {
+        border: none;
+        background: transparent;
+        font-size: 28px;
+        padding: 0;
+        line-height: normal;
+        cursor: pointer;
+        color: #fff;
+      }
+      .modal-body {
+        padding: 30px 24px 30px 24px;
+      }
+      /* ---------- Modal Form Styles ---------- */
+      .newmodal-popup-login .form-control {
+        width: 100% !important;
+        padding: 18px 30px 18px 30px !important;
+        border-radius: 50px !important;
+        border: none !important;
+        backdrop-filter: blur(20px) !important;
+        background: #2222220a !important;
+        color: #222 !important;
+        font-size: 18px !important;
+        font-weight: 400 !important;
+        height: auto;
+        box-shadow: none;
+      }
+      .newmodal-popup-login span[data-name="your-email"]{
+        margin-bottom: 20px;
+        display: inline-block;
+        width: 100%;
+      }
+      .newmodal-popup-login br{
+        display: none;
+      }
+      .newmodal-popup-login .wpcf7-form input[type=email].wpcf7-not-valid {
+        border-style: none !important;
+      }
+      .newmodal-popup-login .wpcf7-form-control::placeholder {
+        color: #22222266;
+        font-size: 18px;
+        font-weight: 400;
+      }
+      .newmodal-popup-login .wpcf7-form-control:focus {
+        outline: none;
+        box-shadow: none;
+      }
+      .newmodal-popup-login .wpcf7-form-control:focus-visible {
+        outline: none;
+        box-shadow: none;
+      }
+      .fileupload-info {
+        font-family: "Urbanist", sans-serif;
+        font-size: 20px;
+        color: rgb(34 34 34 / 70%);
+        font-weight: 400;
+        line-height: 24px;
+        margin-bottom: 30px;
+      }
+      .newmodal-popup-login .has-float-label {
+        position: relative;
+      }
+      .newmodal-popup-login .has-float-label label {
+        color: #999;
+      }
+      .newmodal-popup-login .error-message {
+        color: red;
+        font-size: 12px;
+        margin-top: 5px;
+      }
+      .newmodal-popup-login .primary-btn {
+        background: #0fa8a4;
+        color: #fff;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        display: block;
+        width: 100%;
+        margin-top: 10px;
+      }
+      .newmodal-popup-login .primary-btn:hover {
+        background: #0d948f;
+      }
+      .career-success-message {
+        color: green;
+        font-size: 16px;
+        text-align: center;
+        margin-top: 10px;
+      }
+      .labeling-cls-adding label {
+        color: #222222;
+        font-size: 16px;
+        font-weight: 400;
+      }
+      .newmodal-popup-login span[data-name="file-116"]{
+        display: flex !important;
+        align-items: center;
+        gap: 10px;
+        position: relative;
+        margin-bottom: 5px;
+        justify-content: center;
+        backdrop-filter: blur(20px);
+        border: 2px dashed #2222220a;
+        background: #2222220a;
+        padding: 16px 0 16px 0;
+        border-radius: 50px;
+        min-height: 80px;
+        text-align: center;
+      }
+      .newmodal-popup-login span[data-name="file-116"]::after{
+        font-family: "Urbanist", sans-serif;
+        content: '+ Attach CV/ Resume';
+        font-weight: 400;
+        font-size: 18px;
+        color: #22222266;
+      }
+      .new-form-inline-cls-adding {
+        padding-bottom: 20px;
+      }
+      .newmodal-popup-login span[data-name="file-116"] input {
+        position: absolute;
+        opacity: 0;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+      }
+      .newmodal-popup-login span[data-name="file-116"]:has(label) {
+        margin-bottom: 30px;
+      }
+      .file-selected-text {
+        font-weight: 400;
+        font-size: 18px;
+        color: #22222266;
+      }
+      .newmodal-popup-login span[data-name="file-116"] .error{
+        bottom: -35px;
+        left: 0;
+        position: absolute;
+      }
+      .newmodal-popup-login .error{ 
+        font-size: 16px;       
+        color: red;
+        text-align: left;
+      }
+      .modal-overtype-cls-adding-here .apply-now-here-cls-adding {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 30px;
+      }
+      /* ------------------------
+         RESPONSIVE STYLES
+      ------------------------ */
+
+      @media only screen and (max-width: 1024px) {
+        .newmodal-popup-login span[data-name="file-116"]{
+          min-height: inherit;
+        }
+        .fileupload-info {
+          font-size: 16px;
+        }
+        .modal-body {
+          padding: 30px 20px 30px 20px;
+        }
+        .modal-header h6 {
+          font-size: 18px;
+        }
+        .what-we-are-looking-for .accordion-content li {
+          font-size: 14px;
+        }
+        .what-we-are-looking-for .apply-btn {
+          margin-right: 0;
+          font-size: 16px;
+          padding: 6px 6px 6px 14px;
+        }
+        .what-we-are-looking-for .accordion-content p {
+          font-size: 14px;
+        }
+        .what-we-are-looking-for .accordion-content h4 {
+          font-size: 16px;
+          line-height: 20px;
+        }
+        .newmodal-popup-login .form-control {
+          padding: 12px 20px 12px 20px;
+        }
+        .custom-file {
+          padding: 12px 0 12px 0;
+        }
+        .what-we-are-looking-for .accordion-header h3 {
+          font-size: 26px;
+          line-height: 30px;
+        }
+      }
+
+      @media only screen and (max-width: 767px) {
+        .what-we-are-looking-for .accordion-header {
+          flex-direction: column;
+          align-items: flex-start;
+          gap: 10px;
+        }
+        .what-we-are-looking-for .accordion-header .openings-info{
+          display: block;
+          margin: 0;
+        }
+        .fileupload-info {
+          font-size: 16px;
+        }
+        .modal-overtype-cls-adding-here .modal-header{
+          padding: 15px;
+        }
+        .modal-body {
+          padding: 15px;
+        }
+        .modal-header h6 {
+          font-size: 18px;
+        }
+        .what-we-are-looking-for .accordion-content li {
+          font-size: 14px;
+        }
+        .what-we-are-looking-for .accordion-content p {
+          font-size: 14px;
+        }
+        .what-we-are-looking-for .accordion-content h4 {
+          font-size: 16px;
+        }
+        .newmodal-popup-login .form-control {
+          padding: 12px 20px 12px 20px !important;
+          font-size: 16px !important;
+        }
+        .newmodal-popup-login span[data-name="file-116"]::after{
+          font-size: 16px;
+        }
+        .custom-file {
+          padding: 12px 0 12px 0;
+        }
+        .what-we-are-looking-for .accordion-header h3 {
+          font-size: 26px;
+          line-height: 30px;
+        }
+        .newmodal-popup-login .apply-now{
+          font-size: 16px !important;
+          width: 138px;
+        }
+        .newmodal-popup-login .apply-now::after{
+          right: 4px;
+        }
+        .fileupload-info{
+          margin-bottom: 20px;
+        }
+        .new-form-inline-cls-adding {
+          padding-bottom: 10px;
+        }
+      }
+   /*  .wpcf7-not-valid-tip,
+.wpcf7-response-output {
+    display: none !important;
+}*/
+
+
+/*
+.wpcf7-form #your-email-error{
+   display: none !important;
+}*/
+
+
+/*.wpcf7-form #your-subject-error{
+   display: none !important;
+}
+
+*/
+.wpcf7-form .file-116-error{
+   display: none !important;
+}
+
+.wpcf7-form .wpcf7-not-valid-tip{
+  display: none !important;
+}
+
+.wpcf7-form .wpcf7-response-output{
+  display: none !important;
+}
+
+.form-loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+}

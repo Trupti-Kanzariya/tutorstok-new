@@ -1,0 +1,5031 @@
+.learnpress-profile .content-area .top_site_main {
+    display: none;
+}
+
+.learnpress-profile .content-area .breadcrumbs-wrapper ul li a::after {
+    content: "/" !important;
+    font-size: 20px !important;
+    color: rgb(34 34 34 / 70%) !important;
+    margin-left: 10px !important;
+}
+
+.link-questions-cls-adding-here {
+    width: 50%;
+    border-radius: 10px !important;
+}
+
+.flexing-all-typed-here {
+	display: flex;
+    gap: 0 20px;
+} 
+
+.delete-assignment-cls-adding-here:before{
+	content: url(../../uploads/2025/04/view-assignment-latest.svg);
+}
+
+.learnpress-profile .content-area {
+    background: #f4eee2;
+}
+
+.learnpress-profile .wrapper-container .content-pusher {
+    background: #f4eee2;
+}
+
+.learnpress-profile .content-area .site-content {
+    padding: 20px 15px 80px 15px;
+    max-width: 1310px;
+    width: 100% !important;
+}
+
+.learnpress-profile .content-area .breadcrumbs-wrapper ul {
+    padding: 40px 0 0 0 !important;
+}
+
+.learnpress-profile .content-area .breadcrumbs-wrapper ul li a {
+    font-weight: 400;
+    font-size: 18px;
+    color: rgb(34 34 34 / 70%) !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif;
+    margin-right: 10px !important;
+}
+
+.learnpress-profile .content-area .breadcrumbs-wrapper ul li {
+    color: #222222 !important;
+    line-height: 22px !important;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: "Urbanist", Sans-serif;
+}
+
+.learnpress-profile .content-area .wrapper-profile-header {
+    display: none;
+}
+
+.learnpress-profile .content-area .site-content aside {
+    margin: 0 !important;
+    width: 240px !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-content-area {
+    padding-bottom: 0px;
+    width: 100% !important;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content {
+    padding: 0;
+    margin: 0;
+}
+
+.learnpress-profile .content-area .site-content .lp-user-profile {
+    background: transparent !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content {
+    width: calc(100% - 240px);
+    padding-left: 20px !important;
+}
+
+.learnpress-profile .content-area .breadcrumbs-wrapper>.container {
+    max-width: 1310px;
+    padding: 0 15px;
+    width: 100% !important;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav {
+    border-radius: 20px;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li:hover {
+    background: transparent !important;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li a {
+    padding: 20px 20px;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li {
+    border: none;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li.active {
+    background: transparent;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li.active a {
+    color: #0fa8a4;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li.active i {
+    color: #0fa8a4;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li a:hover {
+    color: #0fa8a4;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li a:hover i {
+    color: #0fa8a4;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li a {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+    display: flex;
+    align-items: center;
+    gap: 0 20px;
+}
+
+.woocommerce-checkout .wrapper-container .wc-block-components-payment-method-label {
+  padding-left: 25px;
+}
+
+.woocommerce-checkout .wrapper-container input[type="radio"] {
+  border: 1px solid #000 !important;
+}
+
+.woocommerce {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.woocommerce-checkout .wrapper-container input[type="radio"]:focus {
+  outline: none;
+  border: none;
+}
+
+.learnpress-profile .content-area .site-content aside .profile-nav li a i {
+    color: rgb(34 34 34 / 80%);
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+	margin-top: 0px;
+}
+
+.learnpress-profile .content-area .site-content .profile-recover-order {
+    display: none;
+}
+
+.learnpress-profile .content-area .site-content .profile-heading {
+    background: #0fa8a4;
+    margin: 0;
+    padding: 19px 20px;
+    color: #fff;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 0px !important;
+}
+
+.learnpress-profile .content-area .site-content iframe {
+    border-radius: 0 0 20px 20px;
+}
+
+.learnpress-profile .content-area .site-content table,
+th,
+td {
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.learnpress-profile .content-area .site-content #learn-press-profile th {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 17px;
+    color: rgb(34 34 34 / 100%) !important;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.learnpress-profile .content-area .site-content #learn-press-profile th:first-child,
+.learnpress-profile .content-area .site-content #learn-press-profile td:first-child {
+    padding-left: 30px !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content #profile-content-my-courses table th:first-child,
+.learnpress-profile .content-area .site-content .lp-profile-content #profile-content-my-courses table td:first-child {
+    width: 10% !important;
+    display: table-cell;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content #profile-content-my-courses table th:nth-child(2),
+.learnpress-profile .content-area .site-content .lp-profile-content #profile-content-my-courses table td:nth-child(2) {
+    white-space: normal;
+    width: 100%;
+    min-width: 300px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content #profile-content-my-courses table td:nth-child(2) a {
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .profile-list-assignments th:first-child,
+.learnpress-profile .content-area .site-content .lp-profile-content .profile-list-assignments td:first-child {
+    white-space: normal;
+    width: 100%;
+    min-width: 400px;
+}
+
+.learnpress-profile .content-area .site-content #learn-press-profile th:last-child,
+.learnpress-profile .content-area .site-content #learn-press-profile td:last-child {
+    padding-right: 30px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table tr,
+.learnpress-profile .content-area .site-content .lp-profile-content table tr th,
+.learnpress-profile .content-area .site-content .lp-profile-content table thead,
+.learnpress-profile .content-area .site-content .lp-profile-content table tbody {
+    border: none !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table tr td {
+    border: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    white-space: nowrap;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table tr td:not(:last-child) {
+    border-right: 1px solid rgba(34, 34, 34, 0.1) !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table {
+    margin: 0 !important;
+    border-radius: 0 0 20px 20px;
+    overflow: hidden;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table tr.no-record-img td img{
+	max-width: 300px;
+    padding: 10px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td {
+    font-size: 16px !important;
+    text-align: left;
+    font-weight: 500 !important;
+    color: rgb(34 34 34 / 80%) !important;
+    line-height: 18px !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td a {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color: rgb(34 34 34 / 70%) !important;
+    line-height: 18px !important;
+	transition: all .3s ease;
+	font-family: "Urbanist", Sans-serif;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table tr td a:hover {
+    color: #0FA8A4 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table tfoot {
+    display: none;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table .column-order-actions a {
+    color: #fff !important;
+    border-radius: 44px !important;
+    padding: 4px 14px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 17px !important;
+    width: auto;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+    border: 1px solid #0fa7a4 !important;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table th {
+    background: rgb(217 217 217 / 30%) !important;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table td {
+    background: rgb(217 217 217 / 30%) !important;
+    border: none !important;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details {
+    background: #fff;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table {
+    border-radius: 10px;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    width: 98%;
+}
+
+.learnpress-profile .content-area .site-content #profile-content-order-details h3 {
+    background: #0fa8a4;
+    margin: 0;
+    padding: 19px 20px;
+    color: #fff;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 10px !important;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table th:first-child {
+    padding-left: 15px;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table th:last-child {
+    padding-right: 15px;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table td:last-child {
+    padding-right: 15px;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table td:first-child {
+    padding-left: 15px;
+}
+
+.custom-table-wrapper {
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    display: block;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #fff !important;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table td a {
+    color: rgb(34 34 34 / 80%) !important;
+    font-weight: 500 !important;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details table td {
+    color: rgb(34 34 34 / 80%) !important;
+    font-weight: 500 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td .lp-label {
+    color: rgb(34 34 34 / 70%) !important;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details p {
+    padding: 0px 0 0px 25px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details p strong {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(0 0 0 / 70%);
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details p {
+    padding: 0px 0 0px 25px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(0 0 0 / 70%);
+    font-family: "Urbanist", Sans-serif;
+    line-height: 24px;
+}
+
+.learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details .order-status {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(0 0 0 / 70%);
+    font-family: "Urbanist", Sans-serif;
+    line-height: 24px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table .column-order-actions a:hover {
+    background: #ffffff !important;
+    color: #0fa8a4 !important;
+    border-color: #0fa8a4 !important;
+}
+
+/*Assignments admin CSS*/
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-filters,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav {
+    gap: 8px !important;
+    border: 0 !important;
+    margin: 0 !important;
+}
+
+.learn-press-filters li a::after,
+.learn-press-filters li span::after,
+.learn-press-tabs__item::after {
+    display: none;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-filters li a,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li a,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li span {
+    font-family: "Urbanist", Sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: 18px;
+    padding: 13px 20px;
+    background: #fff !important;
+    color: #0fa8a4 !important;
+    border-radius: 44px;
+    transition: all 0.3s ease;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-filters li a:hover,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-filters li.active a,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li a:hover,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li.active a,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li span:hover,
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li.active span {
+    color: #fff !important;
+    background: #0fa8a4 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    background: #0fa8a4;
+    border-radius: 20px 20px 0 0;
+    padding: 16px 20px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-title {
+    margin: 0;
+    color: #fff;
+    font-family: "Urbanist", Sans-serif !important;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    margin-right: auto;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-search form {
+    position: relative;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-search form input {
+    border-radius: 44px;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 500;
+    padding: 12px 56px 12px 14px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-search form button {
+    position: absolute;
+    color: #222222 !important;
+    font-size: 0 !important;
+    padding: 0 !important;
+    width: 20px;
+    height: 20px !important;
+    top: 50%;
+    right: 16px;
+    transform: translateY(-50%);
+    background: transparent !important;
+    border-radius: 0 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-search form button::before {
+    content: "\f002";
+    font-family: "lp-icon" !important;
+    font-size: 20px;
+    line-height: normal;
+}
+
+@media only screen and (min-width: 1280px) {
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-search form input {
+        min-width: 360px;
+    }
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td .assignment-wrap a {
+    color: #222222 !important;
+    font-weight: 500 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td .assignment-wrap a span {
+    font-size: 14px !important;
+    color: #0fa8a4 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td .submit-button {
+    background: #0fa8a4 !important;
+    color: #fff !important;
+    border-radius: 44px !important;
+    padding: 4px 14px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 17px !important;
+    width: auto;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+    border: 1px solid #0fa7a4 !important;
+    transition: all 0.3s ease;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td .submit-button:hover {
+    background: #ffffff !important;
+    color: #0fa8a4 !important;
+    border-color: #0fa8a4 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td .submit-button.submit-button-completed {
+    background: #2222220f !important;
+    color: #222222 !important;
+    border: 1px solid transparent !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content table td .submit-button.submit-button-completed:hover {
+    color: #0fa8a4 !important;
+    border-color: #0fa8a4 !important;
+}
+
+.lp-notification-header table tr td strong {
+    font-weight: 500 !important;
+    display: block;
+    margin-bottom: 8px;
+    color: #222 !important;
+}
+
+.lp-notification-header table tr td span {
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    color: #222222b3 !important;
+}
+
+.lp-notification-header table tr:not(:last-child) td {
+    border-bottom: 1px solid rgba(34, 34, 34, 0.1) !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form {
+    padding: 20px 10px !important;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form ul {
+    margin: 0px !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form ul li {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form label {
+    font-size: 20px;
+    font-weight: 400 !important;
+    color: rgb(0 0 0 / 70%) !important;
+    font-family: "Urbanist", Sans-serif !important;
+    margin-bottom: 9px;
+    line-height: 28px !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .form-field-input input {
+    background: rgb(34 34 34 / 10%) !important;
+    border-radius: 50px !important;
+    padding: 15px 20px 15px 20px;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .form-field-input input {
+    background: rgb(34 34 34 / 10%) !important;
+    border-radius: 50px !important;
+    padding: 15px 20px 15px 20px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    font-family: "Urbanist", Sans-serif !important;
+    color: rgb(34 34 34 / 80%) !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form ul li:first-child {
+    width: 50%;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form ul li:nth-child(2) {
+    width: 50%;
+    float: left;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .form-field-input {
+    position: relative;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .form-field-input .toggle-password {
+    position: absolute;
+    right: 20px;
+    top: 14px;
+    cursor: pointer;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .btn-bottom-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 0 10px;
+    clear: both;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .btn-bottom-row .lp-button {
+    margin: 0 !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form ul li:nth-child(3) {
+    width: 50%;
+    float: left;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .form-field-input input::placeholder {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    font-family: "Urbanist", Sans-serif !important;
+    color: rgb(34 34 34 / 50%) !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form ul li {
+    margin-bottom: 20px;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .lp-button {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    margin-left: 10px;
+    text-transform: capitalize !important;
+    transition: all 0.3s ease;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .lp-button:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .lp-button.button-secondary {
+    color: #0fa8a4 !important;
+    background: #fff !important;
+}
+
+.learnpress-profile .content-area .site-content .learn-press-form .lp-button.button-secondary:hover {
+    background: #0fa8a4 !important;
+    color: #fff !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .add-assignment-button {
+    display: flex;
+    align-items: center;
+    border: 1px solid #0fa8a4;
+    background: #0fa8a4;
+    border-radius: 44px;
+    padding: 11px 14px 11px 20px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: normal;
+    transition: all 0.3s ease;
+    margin-left: auto;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .add-assignment-button::before {
+    margin-right: 14px;
+    content: "\f067";
+    font-family: "lp-icon" !important;
+    font-size: 17px;
+    line-height: normal;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .add-assignment-button:hover {
+    color: #0fa8a4;
+    background: #fff;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box {
+    padding: 16px;
+    background-color: #ffffff !important;
+    border-radius: 20px !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__text {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__text label {
+    color: rgb(34 34 34 / 80%) !important;
+    font-size: 22px !important;
+    font-weight: 400 !important;
+    line-height: 26px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    margin: 0;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__text .statistic-box__text__number {
+    margin-bottom: 10px;
+    color: #222222;
+    font-size: 32px !important;
+    font-weight: 500 !important;
+    line-height: 32px !important;
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__icon span {
+    color: #222222 !important;
+    background: #fc91b066 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__icon span::before {
+    background: url(../../../../uploads/2025/04/Crown-Star.svg);
+    content: "" !important;
+    background-size: cover;
+    width: 24px;
+    height: 24px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box:nth-child(2) .statistic-box__icon span,
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box:nth-child(4) .statistic-box__icon span {
+    background: #f5a34c66 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box:nth-child(3) .statistic-box__icon span,
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box:nth-child(5) .statistic-box__icon span {
+    background: #c8e37b66 !important;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .thim-header-info li {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    color: rgba(34, 34, 34, 1);
+    font-family: "Urbanist", Sans-serif;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper {
+    display: flex;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs {
+    display: grid;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper {
+    border-left: 1px solid rgba(34, 34, 34, 0.1);
+    width: 100%;
+    padding: 20px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup aside .lp-form-course-filter__title {
+    display: none;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .form-action-buttons {
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 0 20px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button {
+    font-size: 22px;
+    background: transparent;
+    font-weight: 500;
+    line-height: 26px;
+    color: rgba(34, 34, 34, 1);
+    text-transform: capitalize;
+    padding: 20px 0px 20px 0px;
+    text-align: left;
+    font-family: "Urbanist", Sans-serif;
+    min-width: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 4px solid transparent;
+    border-radius: 0px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button.active {
+    background: rgba(255, 255, 255, 1);
+    color: rgba(15, 168, 164, 1);
+    border-left: 4px solid rgba(15, 168, 164, 1);
+}
+
+.filter-course-cls-adding .lp-course-filter-popup {
+    border-radius: 20px !important;
+    box-shadow: 6px 8px 30px 0px rgba(0, 0, 0, 0.15);
+    max-width: 600px !important;
+    padding: 20px 0px 0px 0px;
+    overflow: hidden;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .elementor-icon-wrapper .elementor-icon svg {
+    width: 18px;
+    height: 18px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field {
+    gap: 10px;
+    padding-bottom: 10px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field input[type="checkbox"]:checked+label {
+    color: rgba(34, 34, 34, 1);
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field input[type="checkbox"] {
+    border: 1px solid rgba(34, 34, 34, 0.7) !important;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    margin-right: 0px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field label {
+    color: rgba(34, 34, 34, 0.7);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field span.count {
+    display: none;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .elementor-widget-sidebar {
+    margin-bottom: 0px;
+    top: 50%;
+    left: 50%;
+    right: initial !important;
+    transform: translate(-50%, 0px);
+    background: rgba(250, 250, 250, 1);
+}
+
+.filter-course-cls-adding .lp-course-filter-popup aside {
+    margin-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .e-con-full {
+    padding: 0px 20px 20px 20px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .elementor-widget-icon {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-form-course-filter__item {
+    padding: 0px !important;
+    margin: 0 !important;
+    border-bottom: none;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .form-action-buttons .course-filter-submit {
+    border-radius: 44px;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 11px 85px;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 22px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .form-action-buttons .course-filter-reset {
+    border-radius: 44px;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    padding: 11px 85px;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 22px;
+    border: 1px solid #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.custom-filter-tags .selected-filters .filter-tag .remove-filter {
+    color: #0fa8a4;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.custom-filter-tags .selected-filters .filter-tag {
+    border: 1px solid #0fa8a4;
+    padding: 11px 14px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #0fa8a4;
+    font-family: "Urbanist", Sans-serif;
+    border-radius: 44px;
+    line-height: 20px;
+    background: #fff;
+}
+
+.learn-press-courses .lp-load-ajax-element {
+    width: 100%;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field input[type="checkbox"]:checked {
+    background-color: rgba(15, 168, 164, 1);
+    border: 1px solid rgba(15, 168, 164, 1) !important;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field input[type="checkbox"]:checked::before {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px 0px 0px 2px !important;
+    font-size: 10px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .lp-course-filter__field input[type="radio"]:checked {
+    background: rgba(15, 168, 164, 1);
+    border: 1px solid rgba(15, 168, 164, 1);
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .lp-course-filter__field input[type="radio"]:checked::before {
+    background: #fff !important;
+}
+
+.thim-ekits-archive-course__topbar .thim-ekits-archive-course__topbar__search .lp-icon-search {
+    display: none;
+}
+
+.thim-ekits-archive-course__topbar .thim-ekits-archive-course__topbar__search input[type="search"] {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.thim-ekits-archive-course__topbar .thim-ekits-archive-course__topbar__search {
+    min-width: 500px;
+}
+
+.open-filter-btn .widget-button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 1;
+    background: #0fa8a4;
+    border-radius: 44px;
+    padding: 11px 14px !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif;
+    text-transform: capitalize;
+    margin: 14px 15px 0 0px !important;
+    min-width: 115px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    border: 1px solid #0fa8a4 !important;
+}
+
+.thim-ekits-archive-course__topbar .thim-ekits-archive-course__topbar__search input[type="search"] {
+    border: 1px solid #0fa8a4 !important;
+    padding-top: 16px !important;
+    padding-bottom: 16px !important;
+    min-height: 76px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .form-action-buttons .course-filter-reset:hover {
+    background: transparent;
+}
+
+.open-filter-btn .widget-button:hover {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    color: #ffffff !important;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .lp-course-filter__field {
+    color: rgba(34, 34, 34, 0.7);
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .lp-course-filter__field input[type="radio"] {
+    border: 1px solid rgba(34, 34, 34, 0.7);
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .lp-course-filter__field input[type="radio"]:checked::before {
+    background: transparent !important;
+    content: "\f00c" !important;
+    font-family: "Font Awesome 5 Free";
+    text-indent: initial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 6px 0px 0px 3px !important;
+    font-size: 11px;
+    color: #fff;
+    width: 12px;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .lp-course-filter__field input[type="radio"] {
+    width: 20px;
+    height: 20px;
+}
+
+.course-list .learn-press-courses .thim-ekits-archive-course__topbar {
+    gap: 0;
+}
+
+.lp-head-cls-adding-here-all {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 0 20px;
+    margin: -70px 0 0 0;
+    padding-bottom: 10px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    gap: 15px 0px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #22222233;
+    padding-top: 15px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid .lp-info-item {
+    display: grid;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Urbanist", Sans-serif;
+    color: rgb(0 0 0 / 70%);
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid .lp-info-item strong {
+    display: grid;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    color: rgb(0 0 0 / 70%);
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-profile-header {
+    display: none !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-bio strong {
+    display: grid;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    color: rgb(0 0 0 / 70%);
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-bio {
+    display: grid;
+    padding-top: 16px;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Urbanist", Sans-serif;
+    color: rgb(0 0 0 / 70%);
+}
+
+.blue-light-cls-adding-here .spacing-cls-adding-here {
+    width: 100%;
+    background: #0fa8a4;
+    height: 200px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .lp-profile-overview-card {
+    padding: 20px !important;
+}
+
+.blue-light-cls-adding-here .lp-profile-overview-card.learn-press-form {
+    border-radius: 0px 0px 20px 20px !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content #profile-content-my-courses .lp-profile-header,
+.learnpress-profile .content-area .site-content .lp-profile-content #profile-content-courses .lp-profile-header {
+    display: flex !important;
+}
+
+.learn-press-courses .thim-ekits-archive-course__topbar button:hover {
+    background: transparent !important;
+}
+
+.dashboard-php-cls-adding-here-all:hover {
+    color: #fff !important;
+}
+
+.lp-head-cls-adding-here-all .dashboard-cls-adding-profile {
+    border-radius: 20px;
+    padding: 5px;
+    margin: 0;
+    background: #fff;
+    width: fit-content;
+}
+
+.lp-head-cls-adding-here-all .dashboard-cls-adding-profile .dashboard-img-cls-adding-here {
+    border-radius: 20px !important;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+
+.progress-bar-cls-adding-here {
+    position: relative;
+    margin-bottom: 7px;
+}
+
+.progress-bar-cls-adding-here .profile-complete-cls-adding-here {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    bottom: 0;
+    font-family: "Urbanist", Sans-serif;
+}
+
+.dashboard-php-cls-adding-here-all {
+    background: #0fa8a4;
+    padding: 11px 20px;
+    border-radius: 22px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 8px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content>div .lp-profile-header {
+    gap: 10px !important;
+    margin-bottom: 40px !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content>div .lp-profile-header .custom-lp-profile-avatar img {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content>div .lp-profile-header .custom-lp-profile-link {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #222222;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content>div .lp-profile-header .custom-lp-profile-username span {
+    color: #0fa8a4;
+}
+
+/* .learnpress-profile .content-area .site-content .lp-profile-content .learn-press-course-tab-enrolled .learn-press-tabs {
+    display: none;
+} */
+
+.learnpress-profile .content-area .site-content .lp-profile-content>div .learn-press-profile-course__statistic {
+    margin-bottom: 20px;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__icon span {
+    line-height: normal;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__icon .lp-icon-test_complete {
+    background: #c8e37b66 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box {
+    align-items: center;
+}
+
+.filter-modal .filter-modal-content {
+    border-radius: 20px !important;
+    box-shadow: 6px 8px 30px 0px rgba(0, 0, 0, 0.15);
+    max-width: 600px !important;
+    padding: 20px 0px 0px 0px;
+    overflow: hidden;
+    width: calc(100% - 30px);
+}
+
+.filter-modal .filter-modal-content h3 {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    color: rgba(34, 34, 34, 1);
+    font-family: "Urbanist", Sans-serif;
+    margin: 0;
+}
+
+.flexing-cls-adding .filter-tabs {
+    display: grid;
+    min-width: 300px;
+    height: fit-content;
+}
+
+.flexing-cls-adding .filter-tabs .tablinks.active {
+    background: rgba(255, 255, 255, 1);
+    color: rgba(15, 168, 164, 1);
+    border-left: 4px solid rgba(15, 168, 164, 1);
+}
+
+.flexing-cls-adding .filter-tabs .tablinks {
+    font-size: 22px;
+    background: transparent;
+    font-weight: 500;
+    line-height: 26px;
+    color: rgba(34, 34, 34, 1);
+    text-transform: capitalize;
+    padding: 20px 0px 20px 0px;
+    text-align: left;
+    font-family: "Urbanist", Sans-serif;
+    min-width: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 4px solid transparent;
+    border-radius: 0px;
+    height: fit-content;
+}
+
+.courder-list-cls-adding-here {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.flexing-cls-adding {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    background: #fafafa;
+}
+
+.right-side-cls-adding {
+    border-left: 1px solid rgba(34, 34, 34, 0.1);
+    width: 100%;
+    padding: 20px;
+}
+
+.courser-list-btn-cls-adding-here {
+    padding-left: 20px;
+    padding-right: 20px;
+    background: #ffffff;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 0 20px;
+}
+
+.courser-list-btn-cls-adding-here .type-submit-cls-adding-here {
+    border-radius: 44px !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    text-transform: capitalize !important;
+    padding: 11px 85px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    line-height: 22px !important;
+    min-width: 266px !important;
+}
+
+.courser-list-btn-cls-adding-here .type-reset-cls-adding-here {
+    border-radius: 44px !important;
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    text-transform: capitalize !important;
+    padding: 11px 85px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    line-height: 22px !important;
+    border: 1px solid #0fa8a4 !important;
+    color: #0fa8a4 !important;
+    background: transparent;
+    min-width: 266px !important;
+}
+
+.new-progress-tab-cls-adding-here input[type="checkbox"] {
+    border: 1px solid rgba(34, 34, 34, 0.7) !important;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    color: rgba(34, 34, 34, 0.7) !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    line-height: 22px;
+    margin-right: 10px;
+}
+
+.new-progress-tab-cls-adding-here input[type="checkbox"]:checked::before {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px 0px -1px !important;
+    font-size: 10px;
+    background: #0fa8a4 !important;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border: 1px solid #0fa8a4;
+}
+
+.new-progress-tab-cls-adding-here input[type="checkbox"]:checked {
+    border: 1px solid #0fa8a4 !important;
+}
+
+.filter-modal .filter-modal-content .filter-close {
+    margin: 11px 0 0 0;
+    cursor: pointer;
+}
+
+.filter-modal .filter-modal-content .filter-close svg {
+    width: 18px;
+    height: 18px;
+}
+
+.widget_shopping_cart_content .woocommerce-mini-cart li img {
+    border-radius: 10px;
+}
+
+.widget_shopping_cart_content {
+    border-radius: 20px;
+    padding: 20px !important;
+}
+
+.widget_shopping_cart_content .woocommerce-mini-cart li {
+    font-size: 15px;
+    line-height: 24px !important;
+}
+
+.widget_shopping_cart_content .woocommerce-mini-cart li a {
+    color: #222222;
+    margin: -18px 0 0 0;
+}
+
+.widget_shopping_cart_content .variation {
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    width: 100%;
+    margin-top: 10px;
+}
+
+.widget_shopping_cart_content .variation .variation-CourseDuration {
+    line-height: 24px;
+}
+
+.widget_shopping_cart_content{
+	right: -15px !important;
+}
+
+.woocommerce-mini-cart__buttons .wc-forward {
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    border: 1px solid #222 !important;
+}
+
+.woocommerce-mini-cart__buttons a.button.checkout {
+    background: #0fa8a4 !important;
+    color: #fff !important;
+    border: 1px solid #0fa8a4 !important;
+}
+
+.woocommerce-mini-cart__buttons a.button.checkout:hover {
+    background: transparent !important;
+    border: 1px solid #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.woocommerce-mini-cart__buttons .wc-forward:hover {
+    background: transparent !important;
+    border: 1px solid #222 !important;
+    color: #222 !important;
+}
+
+#custom-profile-form {
+    padding: 20px !important;
+}
+
+.bredcum-point-cls-adding-here a {
+    margin-right: 3px !important;
+    font-size: 18px;
+    color: #222222B3 !important;
+}
+
+.bredcum-point-cls-adding-here span {
+    color: #222222;
+}
+
+.bredcum-point-cls-adding-here a:after {
+    content: inherit !important;
+}
+
+.bredcum-point-cls-adding-here {
+    padding-top: 30px !important;
+    font-size: 18px;
+}
+
+.breadcrumb-item-name {
+    color: #222222;
+}
+
+.breadcrumb-item-overview {
+    color: #222222B3;
+}
+
+.enrolled-student-cls-adding .lp-student_list-header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    background: #0fa8a4;
+    border-radius: 20px 20px 0 0;
+    padding: 16px 20px;
+}
+
+.enrolled-student-cls-adding .lp-student_list-header .lp-student_list-title {
+    margin: 0;
+    color: #fff;
+    font-family: "Urbanist", Sans-serif !important;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    margin-right: auto;
+}
+
+.enrolled-student-cls-adding form {
+    position: relative;
+}
+
+.enrolled-student-cls-adding form button {
+    position: absolute;
+    color: #222222 !important;
+    font-size: 0 !important;
+    padding: 0 !important;
+    width: 20px;
+    height: 20px !important;
+    top: 50%;
+    right: 16px;
+    transform: translateY(-50%);
+    background: transparent !important;
+    border-radius: 0 !important;
+}
+
+.enrolled-student-cls-adding form button:before {
+    content: "\f002";
+    font-family: "lp-icon" !important;
+    font-size: 20px;
+    line-height: normal;
+}
+
+.enrolled-student-cls-adding table,
+th,
+td {
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.enrolled-student-cls-adding table {
+    margin: 0 !important;
+    border-radius: 0 0 20px 20px;
+    overflow: hidden;
+}
+
+.enrolled-student-cls-adding .custom-table-wrapper {
+    border: 1px solid rgba(34, 34, 34, 0.1) !important;
+    border-radius: 0 0 20px 20px;
+}
+
+.enrolled-student-cls-adding thead th:first-child,
+.enrolled-student-cls-adding tbody td:first-child {
+    padding-left: 30px;
+}
+
+.enrolled-student-cls-adding thead th {
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    line-height: 17px;
+    color: rgb(34 34 34 / 80%) !important;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    white-space: nowrap;
+}
+
+.enrolled-student-cls-adding thead,
+.enrolled-student-cls-adding tbody,
+.enrolled-student-cls-adding thead th,
+.enrolled-student-cls-adding tbody td,
+.enrolled-student-cls-adding table tr {
+    border: none !important;
+}
+
+.enrolled-student-cls-adding .custom-table-wrapper thead,
+.enrolled-student-cls-adding .custom-table-wrapper thead th {
+    background: transparent !important;
+}
+
+.enrolled-student-cls-adding tbody td {
+    font-size: 16px !important;
+    text-align: left;
+    font-weight: 400 !important;
+    color: rgb(34 34 34) !important;
+    line-height: 18px !important;
+    background: transparent !important;
+}
+
+.enrolled-student-cls-adding tbody td .badge-wrapper {
+    text-align: center;
+    border-radius: 44px;
+    color: #fff !important;
+    border-spacing: 12px;
+    padding: 5px 14px;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 500;
+}
+
+.enrolled-student-cls-adding tbody td .badge-wrapper.performance-average {
+    background: #E89738 !important;
+}
+
+.enrolled-student-cls-adding tbody td .badge-wrapper.performance-excellent {
+    background: #009361 !important;
+}
+
+.enrolled-student-cls-adding tbody td .badge-wrapper.performance-good {
+    background: #E05279 !important;
+}
+
+.enrolled-student-cls-adding form input[type="text"] {
+    border-radius: 44px;
+    font-size: 16px !important;
+    line-height: 19px;
+    font-weight: 500 !important;
+    padding: 12px 56px 12px 14px;
+}
+
+.enrolled-student-cls-adding tbody td:not(:last-child) {
+    border-right: 1px solid rgba(34, 34, 34, 0.1) !important;
+}
+
+/* .enrolled-student-cls-adding tbody td:nth-child(5){
+	white-space: normal;
+    width: 100%;
+    min-width: 300px;
+	-webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} */
+.material-wrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.material-wrapper .material-card {
+    width: 100px;
+}
+
+.material-wrapper .material-card a {
+    width: 100%;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0FA8A4;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 0;
+}
+
+.material-wrapper .material-card a::before {
+    background: url(../../../../uploads/2025/04/pdf-icon.svg);
+    z-index: 1;
+    content: '';
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.material-wrapper .material-card button {
+    width: 100%;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 0;
+    border: 1px dashed #0FA8A4;
+}
+
+.material-wrapper .material-card button::before {
+    background: url(../../../../uploads/2025/04/plus.svg);
+    z-index: 1;
+    content: '';
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.material-wrapper .material-card p {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: rgba(44 44 44 / 80%);
+    text-align: center;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    display: -webkit-box;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.course-tab-panel-reviews .lp-rating-reviews .write-a-review.lp-button {
+	background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    transition: all 0.3sease;
+}
+
+.course-tab-panel-reviews .lp-rating-reviews .write-a-review.lp-button:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.course-review-wrapper .review-form h4 {
+    font-size: 22px;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: #222222;
+}
+
+.course-review-wrapper .review-form label {
+    font-size: 20px;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 24px;
+    color: rgb(34, 34, 34, 0.8);
+}
+
+.course-review-wrapper .review-form .lp-button.close {
+    background: transparent !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    margin-left: 10px;
+    text-transform: capitalize !important;
+    transition: all 0.3sease;
+    color: #0fa8a4 !important;
+}
+
+.course-review-wrapper .review-form .lp-button.close:hover {
+    background: #0fa8a4 !important;
+    color: #fff !important;
+}
+
+.course-review-wrapper .review-form .lp-button.submit-review {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    transition: all 0.3sease;
+}
+
+.course-review-wrapper .review-form .lp-button.submit-review:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+/*Responsive Style of dashboard starts*/
+@media only screen and (max-width: 1024px) {
+	.course-review-wrapper .review-form .lp-button.close { 
+		font-size: 18px;
+    	line-height: 22px;
+	}
+	.course-review-wrapper .review-form h4 {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.course-review-wrapper .review-form label {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.course-review-wrapper .review-form .lp-button.submit-review { 
+    font-size: 18px;
+    line-height: 22px;
+}
+	
+	.course-tab-panel-reviews .lp-rating-reviews .write-a-review.lp-button {
+		font-size: 18px !important;
+		 line-height: 22px !important;
+	}
+		.woocommerce-order .woocommerce-order-overview.woocommerce-thankyou-order-details.order_details li {
+  		margin-bottom: 10px;
+	}
+		.woocommerce-page.woocommerce-order-received table.shop_table tr td {
+		padding: 23px 12px !important;
+	}
+	.no-submission-cls-adding-here {
+		font-size: 18px !important;
+		line-height: 22px !important;
+	}
+    .enrolled-student-cls-adding .lp-student_list-header .lp-student_list-title {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .filter-modal .filter-modal-content h3 {
+        font-size: 26px !important;
+        line-height: 30px !important;
+    }
+
+    .flexing-cls-adding .filter-tabs .tablinks {
+        font-size: 20px !important;
+        line-height: 24px !important;
+    }
+
+    .courser-list-btn-cls-adding-here .type-submit-cls-adding-here {
+        font-size: 18px !important;
+        line-height: 20px !important;
+    }
+
+    .courser-list-btn-cls-adding-here .type-reset-cls-adding-here {
+        font-size: 18px !important;
+        line-height: 20px !important;
+    }
+
+    .blue-light-cls-adding-here .spacing-cls-adding-here {
+        height: 125px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-bio {
+        font-size: 18px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-bio strong {
+        font-size: 18px;
+    }
+
+    .progress-bar-cls-adding-here .profile-complete-cls-adding-here {
+        font-size: 18px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid .lp-info-item {
+        font-size: 18px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid .lp-info-item strong {
+        font-size: 18px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid {
+        grid-template-columns: repeat(2, 2fr);
+    }
+
+    .thim-ekits-archive-course__topbar .thim-ekits-archive-course__topbar__search {
+        min-width: 400px;
+    }
+
+    .thim-ekits-archive-course__topbar .thim-ekits-archive-course__topbar__search input[type="search"] {
+        min-height: 60px;
+    }
+
+    .open-filter-btn .widget-button {
+        margin: 7px 7px 0 0px !important;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .thim-header-info li {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button.active {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .elementor-widget-icon {
+        top: 1px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .elementor-widget-icon {
+        position: absolute;
+        right: 20px;
+        top: 1px;
+        cursor: pointer;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .widget_course_filter {
+        position: relative !important;
+        opacity: 1 !important;
+        width: auto !important;
+        transform: inherit !important;
+        visibility: visible;
+        right: inherit !important;
+        top: inherit !important;
+        padding-bottom: 0px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .lp-form-course-filter__close {
+        display: none;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .elementor-widget-sidebar {
+        position: initial !important;
+        transform: initial !important;
+    }
+
+    .learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details p strong,
+    .learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details p,
+    .learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details .order-status {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .add-assignment-button {
+        font-size: 16px;
+    }
+
+    .learnpress-profile .content-area .site-content .learn-press-form label {
+        font-size: 18px;
+        line-height: 22px !important;
+    }
+
+    .learnpress-profile .content-area .site-content .learn-press-form .lp-button {
+        font-size: 18px !important;
+        line-height: 22px !important;
+    }
+
+    .learnpress-profile .content-area .site-content aside .profile-nav li a {
+        padding: 14px 18px;
+        font-size: 18px !important;
+        line-height: 22px !important;
+    }
+
+    .learnpress-profile .content-area .site-content #profile-content-order-details h3,
+    .learnpress-profile .content-area .site-content .profile-heading {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .learnpress-profile .content-area .site-content {
+        padding: 40px 15px;
+    }
+
+    .learnpress-profile .content-area .breadcrumbs-wrapper ul {
+        padding: 20px 0 0 0 !important;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-content-area {
+        row-gap: 20px;
+    }
+
+    .learnpress-profile .content-area .site-content #learn-press-profile th {
+        padding-top: 20px;
+    }
+
+    .learnpress-profile .content-area .site-content #learn-press-profile th:first-child,
+    .learnpress-profile .content-area .site-content #learn-press-profile td:first-child {
+        padding-left: 20px !important;
+    }
+
+    .learnpress-profile .content-area .site-content #learn-press-profile th:last-child,
+    .learnpress-profile .content-area .site-content #learn-press-profile td:last-child {
+        padding-right: 20px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content table tr td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-title {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content>div .lp-profile-header {
+        margin-bottom: 20px !important;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content>div .lp-profile-header .custom-lp-profile-link {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__text label {
+        font-size: 18px !important;
+        line-height: 20px !important;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__text .statistic-box__text__number {
+        font-size: 26px !important;
+        line-height: 30px !important;
+        margin-bottom: 2px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__text {
+        align-items: flex-start;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+
+    .learnpress-profile .content-area .site-content aside,
+    .learnpress-profile .content-area .site-content .lp-profile-content {
+        width: 100% !important;
+        padding: 0 !important;
+    }
+
+    .learnpress-profile .content-area .site-content aside .profile-nav li a {
+        padding: 12px 18px;
+        font-size: 16px !important;
+        line-height: 20px !important;
+        row-gap: 8px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-filters li a,
+    .learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li a,
+    .learnpress-profile .content-area .site-content .lp-profile-content .learn-press-tabs .learn-press-tabs__nav li span {
+        padding: 10px 16px !important;
+    }
+
+    .learnpress-profile .content-area .breadcrumbs-wrapper ul li a,
+    .learnpress-profile .content-area .breadcrumbs-wrapper ul li {
+        font-size: 16px;
+    }
+
+    .learn-press-tabs__nav,
+    .learn-press-tabs .learn-press-filters {
+        white-space: normal;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+	.course-review-wrapper .review-form .lp-button.close { 
+		font-size: 16px !important;
+		 line-height: 20px !important;
+	}
+	
+	.course-tab-panel-reviews .lp-rating-reviews .write-a-review.lp-button {
+		font-size: 16px !important;
+		 line-height: 20px !important;
+	}
+	
+	.woocommerce-order .woocommerce-order-overview.woocommerce-thankyou-order-details.order_details li {
+  		float: inherit;
+  		border-right: none;
+  		margin-bottom: 10px;
+	}
+	.no-submission-cls-adding-here {
+		font-size: 16px !important;
+		line-height: 20px !important;
+	}
+	.learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header{
+		padding: 15px;
+	}
+	.learnpress-profile .content-area .site-content .lp-profile-content table tr.no-record-img td img{
+		max-width: 200px;
+	}
+	.learnpress-profile .content-area .site-content .learn-press-form .form-field-input input {
+		font-size: 16px;
+	}
+    .enrolled-student-cls-adding .lp-student_list-header .lp-student_list-title {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .material-wrapper .material-card {
+        width: calc(33.33% - 13.33px);
+    }
+
+    .flexing-cls-adding .filter-tabs {
+        min-width: 100%;
+    }
+
+    .flexing-cls-adding {
+        flex-wrap: wrap;
+        max-height: 280px;
+        overflow-y: auto;
+    }
+
+    .courser-list-btn-cls-adding-here {
+        display: block;
+		text-align: center;
+    }
+
+    .filter-modal .filter-modal-content h3 {
+        font-size: 20px !important;
+        line-height: 24px !important;
+    }
+
+    .flexing-cls-adding .filter-tabs .tablinks {
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+
+    .courser-list-btn-cls-adding-here .type-submit-cls-adding-here {
+        font-size: 16px !important;
+        line-height: 20px !important;
+        min-width: 250px !important;
+        margin-bottom: 10px;
+    }
+
+    .courser-list-btn-cls-adding-here .type-reset-cls-adding-here {
+        font-size: 16px !important;
+        line-height: 20px !important;
+        min-width: 250px !important;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .dashboard-statistic__row .statistic-box .statistic-box__icon span::before {
+        width: 18px;
+        height: 18px;
+    }
+
+    .lp-head-cls-adding-here-all .dashboard-cls-adding-profile .dashboard-img-cls-adding-here {
+        width: 90px;
+        height: 90px;
+    }
+
+    .dashboard-php-cls-adding-here-all svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    .dashboard-php-cls-adding-here-all {
+        font-size: 16px;
+        padding: 6px 20px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-bio {
+        font-size: 16px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-bio strong {
+        font-size: 16px;
+    }
+
+    .progress-bar-cls-adding-here .profile-complete-cls-adding-here {
+        font-size: 16px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid .lp-info-item {
+        font-size: 16px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid .lp-info-item strong {
+        font-size: 16px;
+    }
+
+    .lp-profile-overview-card.learn-press-form .lp-head-cls-adding-here-all {
+        display: block;
+    }
+
+    .progress-bar-cls-adding-here {
+        margin-bottom: 7px;
+        margin-top: 7px;
+    }
+
+    .lp-profile-overview-card.learn-press-form .lp-head-cls-adding-here-all .lp-head {
+        display: block !important;
+        width: 100% !important;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-info-grid {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px 0px;
+    }
+
+    .thim-ekits-archive-course__topbar .thim-ekits-archive-course__topbar__search {
+        min-width: 100%;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs {
+        grid-template-columns: repeat(2, 2fr);
+        width: 100%;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .e-con-full {
+        padding: 0px 20px 0px 20px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .form-action-buttons .course-filter-reset {
+        font-size: 16px;
+        line-height: 20px;
+		width: 250px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .form-action-buttons .course-filter-submit {
+        font-size: 16px;
+        line-height: 20px;
+		width: 250px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .thim-header-info li {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper .lp-course-filter__field label {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .elementor-widget-icon {
+        top: 2px;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .lp-course-filter__field {
+        font-size: 16px;
+        line-height: 20px !important;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .filter-wrapper {
+        padding-left: 15px;
+        border-top: 1px solid rgba(34, 34, 34, 0.1);
+        border-left: none;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button {
+        padding: 10px 15px 10px 15px;
+        font-size: 16px;
+        line-height: 20px;
+        width: fit-content;
+        min-width: auto;
+        border-left: none;
+        border-bottom: 2px solid transparent;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button.active {
+        padding: 10px 15px 10px 15px;
+        font-size: 16px;
+        line-height: 20px;
+        width: fit-content;
+        min-width: auto;
+        border-left: none;
+        border-bottom: 2px solid rgba(15, 168, 164, 1);
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper {
+        flex-wrap: wrap;
+        max-height: 280px;
+        overflow-y: auto;
+    }
+
+    .filter-course-cls-adding .lp-course-filter-popup .form-action-buttons {
+        flex-wrap: wrap;
+		justify-content: center;
+    }
+
+    .learnpress-profile .content-area .site-content .learn-press-form label {
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+
+    .learnpress-profile .content-area .site-content .learn-press-form ul li:first-child {
+        width: 100%;
+    }
+
+    .learnpress-profile .content-area .site-content .learn-press-form ul li:nth-child(2) {
+        width: 100%;
+        float: inherit;
+    }
+
+    .learnpress-profile .content-area .site-content .learn-press-form ul li:nth-child(3) {
+        width: 100%;
+        float: inherit;
+    }
+
+    .learnpress-profile .content-area .site-content .learn-press-form .lp-button {
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+
+    .learnpress-profile .content-area .site-content aside,
+    .learnpress-profile .content-area .site-content .lp-profile-content {
+        width: 100% !important;
+    }
+
+    .learnpress-profile .content-area .site-content aside .profile-nav {
+        border-radius: 10px;
+    }
+
+    .learnpress-profile .content-area .site-content {
+        padding: 20px 15px;
+    }
+
+    .learnpress-profile .content-area .site-content #profile-content-order-details h3,
+    .learnpress-profile .content-area .site-content .profile-heading {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details p strong {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .learnpress-profile .content-area .site-content .site-main .entry-content #profile-content-order-details .order-status {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .new-form-input-cls-adding .elementor-widget-container .lost-pass-link {
+        margin-bottom: 25px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-title {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .learnpress-profile .content-area .site-content .lp-profile-content .lp-assignment-header .lp-assignment-search form button::before {
+        font-size: 16px;
+    }
+}
+
+/*Responsive Style of dashboard ends*/
+
+/*.widget_shopping_cart_content .checkout {
+    display: none !important;
+}*/
+
+/*.total-cart-class .wp-block-woocommerce-cart-totals-block .wp-block-woocommerce-proceed-to-checkout-block {
+    display: none;
+}*/
+
+.wrapper-container .site-content .site-main .blue-light-cls-adding-here .no-profile-img-availe {
+	margin: -8px 0 0 0 !important;
+}
+
+.new-calendly-batch-list-cls-adding-here li {
+    margin-bottom: 15px !important;
+}
+
+/* when there is no any data css start here */
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-profile-course__tab .learn-press-profile-course__progress .lp-ajax-message {
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-profile-course__tab .learn-press-profile-course__progress .lp-ajax-message:before {
+    font-size: 20px;
+    color: #0fa8a4 !important;
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-message.info {
+    background: #fff;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-message.info:before {
+    font-size: 20px;
+    color: #0fa8a4 !important;
+}
+.dashboard-php-cls-adding-here-all:focus {
+	color: #fff;
+}
+
+.select-type-all-options-here {
+  position: relative;
+}
+
+.select-type-all-options-here::before {
+  content: '';
+  background: url(../../../../../wp-content/uploads/2025/04/newwhite-clsarrow.svg);
+  background-repeat: repeat;
+  background-size: auto;
+  position: absolute;
+  right: 1rem;
+  top: 50%;
+  width: 18px;
+  height: 12px;
+  pointer-events: none;
+  transform: translate(0%, -50%);
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+
+@media only screen and (max-width: 1024px) {
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-message.info {
+		font-size: 18px;
+		line-height: 22px;	
+	}
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-message.info:before {
+		font-size: 18px;
+	}
+	
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-profile-course__tab .learn-press-profile-course__progress .lp-ajax-message {
+		font-size: 18px;
+		line-height: 22px;	
+	}
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-profile-course__tab .learn-press-profile-course__progress .lp-ajax-message:before  {
+		font-size: 18px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	.course-review-wrapper .review-form h4 {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.course-review-wrapper .review-form label {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.course-review-wrapper .review-form .lp-button.submit-review { 
+    font-size: 16px;
+    line-height: 20px;
+}
+	
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-message.info {
+		font-size: 16px;
+		line-height: 20px;	
+	}
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-message.info:before {
+		font-size: 16px;
+	}
+	
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-profile-course__tab .learn-press-profile-course__progress .lp-ajax-message{
+		font-size: 16px;
+		line-height: 20px;	
+	}
+	.learnpress-profile .content-area .site-content .lp-profile-content .learn-press-profile-course__tab .learn-press-profile-course__progress .lp-ajax-message:before {
+		font-size: 16px;
+	}
+}
+/* when there is data available css over here */
+
+/* New css start here 8th May start here */
+
+.new-form-input-cls-adding .event-wrapper-shortcode h3 {
+    font-size: 22px;
+    margin-bottom: 13px;
+    font-weight: 600;
+    color: #222222;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+}
+
+.new-form-input-cls-adding .event-wrapper-shortcode span {
+    font-size: 18px;
+    margin-bottom: 13px;
+    font-weight: 500;
+    color: rgba(34, 34, 34, 1);
+    font-family: "Urbanist", Sans-serif;
+    line-height: 22px;
+}
+
+.new-form-input-cls-adding .elementor-widget-container .event-wrapper-shortcode input::placeholder {
+    color: #222222;
+}
+
+.new-form-input-cls-adding .elementor-widget-container .event-wrapper-shortcode textarea {
+   background-color: #fff;
+    border-radius: 13px;
+    padding: 16px 30px;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 20px !important;
+    line-height: 28px;
+    font-weight: 400;
+    color: #222222;
+    border: none;
+    outline: none;
+    width: 100%;
+    resize: none;
+	border: 1px solid #fff;
+}
+
+.new-form-input-cls-adding .elementor-widget-container .event-wrapper-shortcode textarea:focus {
+    border-color: #0fa8a4;
+}
+
+.new-form-input-cls-adding .elementor-widget-container .event-wrapper-shortcode textarea::placeholder {
+    color: #222222;
+}
+
+.user-role-cls select option{
+	background: #fff;
+}
+
+.user-role-cls select {
+    width: 100%;
+    padding: 20px 15px 20px 20px;
+    border-radius: 50px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: rgb(34 34 34 / 80%);
+    -webkit-appearance: none;
+    background: rgb(34 34 34 / 10%) no-repeat center right 22px / 0.8em url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE4cHgiIGhlaWdodD0iMTBweCIgdmlld0JveD0iMCAwIDE4IDEwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTk5L3hsaW5rIj4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9IlZlY3Rvci0oMSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAxLjAwMDAwMCkiIHN0cm9rZT0iIzMzMzMzMyIgc3Ryb2tlLXdpZHRoPSIyIj4KICAgICAgICAgICAgPHBvbHlsaW5lIGlkPSJQYXRoIiBwb2ludHM9IjAgMCA4IDggMTYgMCI+PC9wb2x5bGluZT4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==);
+}
+
+.new-table-wrapper-cls-adding select {
+    padding: 20px 15px 20px 20px;
+    border-radius: 50px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: rgb(34 34 34 / 80%);
+    -webkit-appearance: none;
+    background: rgb(34 34 34 / 10%) no-repeat center right 22px / 0.8em url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE4cHgiIGhlaWdodD0iMTBweCIgdmlld0JveD0iMCAwIDE4IDEwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTk5L3hsaW5rIj4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9IlZlY3Rvci0oMSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAxLjAwMDAwMCkiIHN0cm9rZT0iIzMzMzMzMyIgc3Ryb2tlLXdpZHRoPSIyIj4KICAgICAgICAgICAgPHBvbHlsaW5lIGlkPSJQYXRoIiBwb2ludHM9IjAgMCA4IDggMTYgMCI+PC9wb2x5bGluZT4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==);
+    width: 100%;
+}
+
+.new-table-wrapper-cls-adding select option {
+    background: #fff;
+}
+
+.new-form-input-cls-adding .user-register .form-cls-register input[type="checkbox"] {
+	width: 20px !important;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #222222B2;
+    display: inline-block;
+    margin: 0 12px 0 0;
+    box-sizing: border-box;
+    background: transparent;
+}
+
+.new-form-input-cls-adding .form-cls-register input[type="checkbox"]:checked {
+	border-color: #0fa8a4;
+}
+
+.new-form-input-cls-adding .form-cls-register input[type="checkbox"]:checked:before {
+    background: #0fa8a4 !important;
+    color: #fff;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-size: 10px;
+}
+
+.content-area .site-content .lp-profile-content #profile-content-gradebook .button {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    transition: all 0.3sease;
+}
+
+.content-area .site-content .lp-profile-content #profile-content-gradebook .button:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;	
+}
+
+.content-area .site-content .entry-content .lp-profile-content #profile-content-calendar .fc-theme-standard table thead th {
+    padding: 5px 0px 5px 0;
+}
+
+.content-area .site-content .entry-content .lp-profile-content #profile-content-calendar .fc-theme-standard table {
+    border: none;
+}
+
+.content-area .site-content .entry-content .lp-profile-content #profile-content-calendar {
+    background: #fff;
+    border-radius: 20px;
+}
+
+.content-area .site-content .entry-content .lp-profile-content #profile-content-calendar .fc-theme-standard table thead .fc-col-header-cell-cushion {
+    color: #222;
+    font-size: 16px;
+}
+
+.form-cls-register {
+    display: grid;
+    grid-template-columns: repeat(3, 3fr);
+    align-items: center;
+}
+
+.form-cls-register .for-all-line input {
+    margin-right: 8px !important;
+}
+
+.detail-chart .ct-left .chart-two-cls {
+    height: 245px !important;
+    width: 245px !important;
+    margin: 0 auto;
+}
+
+#profile-content-enrolled_students {
+   background: #fff;
+   border-radius: 20px;
+   padding-bottom: 20px;
+}
+
+.new-table-wrapper-cls-adding {
+    padding: 20px;
+}
+
+.view-chart-btn {
+    padding: 0px 20px 0px 20px;
+}
+
+.view-chart-btn .view-chart-btn-cls-adding {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    display: flex;
+    align-items: center;
+    gap: 0 10px;
+}
+
+.view-chart-btn .view-chart-btn-cls-adding .share-ics {
+    fill: #fff;
+}
+
+.view-chart-btn .view-chart-btn-cls-adding:hover .share-ics {
+    fill: #0fa8a4;
+}
+
+.view-chart-btn .view-chart-btn-cls-adding:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.chart-section-edit-here {
+    padding: 20px 20px 0px 20px;
+}
+
+.chart-section-edit-here .common-btn-type-here:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.chart-section-edit-here .common-btn-type-here {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+}
+
+.middle-graph-chart {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    padding: 0px 0 0 0;
+    gap: 0 10px;
+}
+
+.new-controlright-graph-set {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.new-controlright-graph-set p {
+    margin-bottom: 0px;
+}
+
+.content-area .site-main .entry-content .learnpress .learn-press-message.success {
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.heading-sub-type {
+	margin: 0 20px;
+}
+
+.new-custom-wrapper-cls-adding {
+	margin: 0 20px;
+    border: 1px solid rgba(34, 34, 34, 0.1) !important;
+    border-radius: 0 0 20px 20px;
+}
+
+.heading-sub-type .subheading-student {
+    background: #0fa8a4;
+    margin: 0;
+    padding: 19px 20px;
+    color: #fff;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 0px !important;
+    margin-top: 30px;
+}
+
+#profile-content-submitted-quizzes p {
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.message-box {
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.content-area .site-main .entry-content .learnpress .learn-press-message.success::before {
+    color: rgb(34 34 34 / 80%);
+}
+
+.new-textarea-cls-adding-here {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.title-chart {
+    padding-top: 12px;
+}
+
+.heading-chart-point {
+    color: #222222;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+
+.strong-tag-cls {
+    color: #222222CC;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.paragrph-chart-point {
+    color: #222222CC;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.noenrolled-student-cls {
+    background: #e8e8e8;
+    border-radius: 50px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 20px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+    margin: 0 20px;
+}
+
+.custom-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 10px;
+    padding-top: 20px;
+}
+
+.custom-pagination .pagination-link.current {
+   background: #0FA8A4;
+    color: #fff !important;
+}
+
+.custom-pagination .pagination-link {
+	background: #fff;
+    color: #222222 !important;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    padding: 7px 12px 7px 12px;
+    border-radius: 44px;
+    font-family: "Urbanist", Sans-serif;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+}
+
+.flexing-cancel-reject-btn-cls-adding-here {
+	padding: 0 20px;
+}
+
+.custom-pagination .pagination-link:hover {
+    color: #fff;
+}
+
+.custom-pagination .pagination-link.current:hover {
+    color: #222;
+}
+
+.view-assignment-btn:before {
+    content: url(../../uploads/2025/04/bold-eye.svg);
+}
+
+.view-assignment-btn:before {
+    content: url(../../../../uploads/2025/06/bold-eye.svg);
+}
+
+.accept-req {
+	background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    color: #fff !important;
+}
+
+.accept-req:hover {
+	background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.reject-req {
+	background: #dc3545 !important;
+    border: 1px solid #dc3545 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    color: #fff !important;
+}
+
+.reject-req:hover {
+	background: #ffffff !important;
+    color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+.wrapper-container .content-area .site-content .site-main .entry-content .learn-press-subtab-content .learn-press-profile-course__tab .od-new-course-listed-type {
+    color: #fff !important;
+    border-radius: 44px !important;
+    padding: 4px 14px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 17px !important;
+    width: auto;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+	background: #0fa7a4 !important;
+    border: 1px solid #0fa7a4 !important;
+}
+
+.wrapper-container .content-area .site-content .site-main .entry-content .learn-press-subtab-content .learn-press-profile-course__tab .od-new-course-listed-type:hover {
+    background: #ffffff !important;
+    color: #0fa8a4 !important;
+    border-color: #0fa8a4 !important;
+}
+
+.wrapper-container .content-area .site-content .site-main .entry-content .learn-press-subtab-content .learn-press-profile-course__tab .course-btn-drop {
+    color: #fff !important;
+    border-radius: 44px !important;
+    padding: 5px 14px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 17px !important;
+    width: auto;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+    transition: all .3s ease;
+    font-family: "Urbanist", Sans-serif;
+    height: unset !important;
+	border: 1px solid #dc3545 !important;
+}
+
+.wrapper-container .content-area .site-content .site-main .entry-content .learn-press-subtab-content .learn-press-profile-course__tab .course-btn-drop:hover{
+    background: #ffffff !important;
+    color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+.lp_profile_course_progress__nav .view-more-btn:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+.lp_profile_course_progress__nav .view-more-btn {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    margin-left: 10px;
+    text-transform: capitalize !important;
+    transition: all 0.3s ease;
+}
+
+.lp_profile_course_progress__nav {
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.new-invoice-wrapper-cls {
+    margin: 0 20px;
+    border: 1px solid rgba(34, 34, 34, 0.1) !important;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.new-invoice-wrapper-cls .transaction-details {
+    padding-bottom: 20px;
+}
+
+.new-order-details-cls-download:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+.new-order-details-cls-download {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    transition: all 0.3s ease;
+}
+
+.pendingpayment-req {
+  	background: #fff;
+    border-radius: 20px;
+	margin-bottom: 20px;
+}
+
+.starting-payment {
+    border-radius: 20px;
+}
+
+.pendingpayment-req .pending-parent-link {
+    background: #0fa8a4;
+    margin: 0;
+    padding: 19px 20px;
+    color: #fff;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 0px !important;
+}
+
+.sub-heading-parents {
+	background: #0fa8a4;
+    margin: 0;
+    padding: 19px 20px;
+    color: #fff;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 38px;
+    border-radius: 20px 20px 0px 0px;
+    margin-bottom: 0px !important;
+}
+
+.nopending-req-all {
+    padding: 20px;
+    margin: 0px;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.linked-parent-cls {
+    padding: 20px 20px;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+    background-color: #fff;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.preferred-course-typed-cls .lp-course-card {
+    background-color: #fff;
+    border-radius: 20px 20px 20px 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.preferred-course-typed-cls .lp-course-card a {
+    border-radius: 14px 14px 14px 14px;
+}
+
+.preferred-course-typed-cls .lp-course-card .attachment-medium {
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: all 0.5s ease;
+    transform: scale(1);
+    max-width: unset !important;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.preferred-course-typed-cls .thim-ekits-course__meta-data {
+    display: flex;
+    align-items: center;
+    gap: 0 10px;
+}
+
+.preferred-course-typed-cls .lp-course-card h3 {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26px;
+    margin: 0px;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    color: #222;
+	min-height: 78px;
+	margin-bottom: 20px;
+}
+
+.no-content-available-cls-adding {
+    margin-bottom: 20px !important;
+}
+
+.preferred-course-typed-cls .lp-course-card p {
+    color: #222222B3;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    display: -webkit-box;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin: 0px;
+	margin-bottom: 20px;
+}	
+
+.min-h-set-only-this-cls {
+    min-height: 88px;
+}
+
+.preferred-course-typed-cls .lp-course-card .course-content-list {
+    padding: 0 !important;
+    margin: 0 0 10px;
+}
+
+.preferred-course-typed-cls .lp-course-card .course-content-list li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.preferred-course-typed-cls .lp-course-card .course-content-list li {
+    list-style: none;
+    position: relative;
+    padding-left: 30px;
+    line-height: 20px;
+    color: #222222B3;
+    font-size: 14px;
+}
+
+.preferred-course-typed-cls .lp-course-card .course-content-list li:before {
+    content: "";
+    background: url(../../../../uploads/2025/04/bullet.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: transparent;
+    top: 1px;
+    position: absolute;
+    left: 0;
+}
+
+.newall-view-attachment-cls-adding {
+    color: #0fa8a4;
+}
+
+.newall-view-attachment-cls-adding:hover {
+    color: #222222 !important;
+}
+
+.current-attachment-type-cls-adding {
+    margin-top: 0px !important;
+}
+
+.new-profile-main-managed-type-cls-adding-here {
+    padding-left: 10px;
+}
+
+.user-type-added-all {
+    margin-left: 0px;
+    display: flex;
+    justify-content: space-between;
+    gap: 0 3px;
+    margin-bottom: 20px;
+}
+
+.user-type-added-all .user-type-listing-cls-adding {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 19px;
+}
+
+.new-course-type-ending-price-all {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.new-course-price-type-cls-adding-here {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 44px;
+    margin-bottom: 0px;
+    color: #0fa8a4;
+}
+
+.course-start-now .new-start-button-enroll-cls-adding-here {
+    gap: 10px;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    padding: 7px 8px 7px 14px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    color: #FFFFFF;
+    background-color: #0FA8A4;
+    border-color: #0FA8A4;
+    border-radius: 44px 44px 44px 44px !important;
+    align-items: center;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    width: max-content;
+}
+
+.course-start-now .new-start-button-enroll-cls-adding-here:hover {
+    color: #0FA8A4;
+    background-color: #FFFFFF;
+    border-color: #0FA8A4;
+}
+
+.new-meted-cls-adding-here-star .new-meted-cls-adding-here-star-thim-ekit-course {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0 7px;
+}
+
+.course-start-now .new-start-button-enroll-cls-adding-here:hover svg {
+    transform: rotate(45deg);
+}
+
+.course-start-now .new-start-button-enroll-cls-adding-here:hover svg rect {
+    fill: #0FA8A4;
+}
+
+.course-start-now .new-start-button-enroll-cls-adding-here:hover svg path {
+    stroke: #fff;
+}
+
+.preferred-course-typed-cls .lp-course-card .course-content-list li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.add-inner-webmodal-cls-adding input {
+    backdrop-filter: blur(20px);
+    background: #2222220A;
+    border-radius: 50px;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    color: #222 !important;
+    line-height: 20px !important;
+    padding: 20px 20px;
+    border: none;
+}
+
+.add-inner-webmodal-cls-adding input::placeholder {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    color: #22222266 !important;
+    line-height: 20px !important;
+}
+
+.add-inner-webmodal-cls-adding select {
+    -webkit-appearance: none;
+    background: #2222220A no-repeat center right 22px / 0.8em url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE4cHgiIGhlaWdodD0iMTBweCIgdmlld0JveD0iMCAwIDE4IDEwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTk5L3hsaW5rIj4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9IlZlY3Rvci0oMSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAxLjAwMDAwMCkiIHN0cm9rZT0iIzMzMzMzMyIgc3Ryb2tlLXdpZHRoPSIyIj4KICAgICAgICAgICAgPHBvbHlsaW5lIGlkPSJQYXRoIiBwb2ludHM9IjAgMCA4IDggMTYgMCI+PC9wb2x5bGluZT4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==);
+    border-radius: 50px;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    color: #22222266 !important;
+    line-height: 20px;
+    padding: 20px 20px;
+    border: none;
+}
+
+.add-webinar-cls-adding-here {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.new-course-ics-cls-adding {
+    display: none;
+}
+
+.new-template-type-cls-adding-here {
+    background: transparent !important;
+    padding: 0px !important;
+    margin: 0 !important;
+}
+
+.edit-webinar-btn.new-template-type-cls-adding-here:before {
+   content: url(../../../../uploads/2025/04/edit.svg);
+}
+
+.main-add-webinar-typed .add-webinar-type-cls-adding-here {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+}
+
+.linked-parent-cls p {
+    margin-bottom: 8px;
+}
+
+.main-add-webinar-typed .add-webinar-type-cls-adding-here:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.main-add-webinar-typed {
+    margin-bottom: 20px;
+}
+
+.course-title-typed-cls-adding-here {
+    white-space: normal !important;
+    word-break: break-word;
+    max-width: 250px;
+	min-width: 250px;
+}
+
+.template-function-worked-cls-adding {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0 10px;
+}
+
+.template-function-worked-cls-adding .cancel-template-typed-cls-adding {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+	color: #fff !important;
+}
+
+.template-function-worked-cls-adding .cancel-template-typed-cls-adding:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.save-template-typed-cls-adding:hover {
+    background: #0fa8a4 !important;
+    color: #fff !important;
+}
+
+.save-template-typed-cls-adding {
+    background: transparent !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    color: #0fa8a4 !important;
+    text-transform: capitalize !important;
+}
+
+.manage-webinar-cls-adding-templated {
+    text-align: end;
+}
+
+.add-inner-webmodal-cls-adding select option {
+	background: #fff;
+	color: #222;
+}
+
+.left-side-added-webinar .add-innar-title-cls-adding-here {
+    margin: 0;
+    font-size: 32px;
+    font-weight: 500;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 38px;
+	color: #222;
+}
+
+.form-template-type-adding-here {
+    padding: 30px 0 30px 0;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button:nth-child(3) {
+    display: none;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button:nth-child(4) {
+    display: none;
+}
+
+.filter-course-cls-adding .lp-course-filter-popup .filter-container-wrapper .tabs button:nth-child(5) {
+    display: none;
+}
+
+.overflow-type-table-responsive {
+    padding: 20px 20px 20px 20px;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section thead .fc-col-header-cell-cushion {
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    line-height: 17px;
+    color: rgb(34 34 34 / 100%) !important;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section .fc-scrollgrid-sync-table {
+    padding: 0px !important;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section .fc-event-title {
+    font-weight: 700;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color: rgb(34 34 34 / 70%) !important;
+    line-height: 18px !important;
+    transition: all .3s ease;
+    font-family: "Urbanist", Sans-serif;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section .fc-daygrid-event-dot {
+    border-color: #0fa8a4;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section .fc-h-event {
+    background: #0fa8a4;
+    border: 1px solid #0fa8a4;
+    border-radius: 50px;
+    padding: 2px 5px 2px 5px !important;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section .fc-event-future {
+    background-color: #0fa8a4 !important;
+    border-color: #0fa8a4;
+    border-radius: 50px;
+    padding: 2px 5px 2px 5px !important;
+    width: fit-content;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section .fc-scrollgrid-sync-table .fc-daygrid-day-top {
+    justify-content: left;
+}
+
+#overflow-type-table-responsive #calendar .fc-scrollgrid-section th:first-child {
+    padding-left: 0px !important;
+}
+
+#overflow-type-table-responsive #calendar .fc-scrollgrid-section th:last-child {
+    padding-right: 0px !important;
+}
+
+#overflow-type-table-responsive #calendar .fc-scrollgrid-section td:first-child {
+    padding-left: 0px !important;
+}
+
+#overflow-type-table-responsive #calendar .fc-scrollgrid-section td:last-child {
+    padding-right: 0px !important;
+}
+
+.table-wrapped-scroll-cls .fc-toolbar-chunk .fc-toolbar-title {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 38px;
+}
+
+.table-wrapped-scroll-cls .fc-button-primary:hover {
+    background: #0fa8a4;
+    border-color: #0fa8a4;
+}
+
+.table-wrapped-scroll-cls .fc-button-primary:hover .fc-icon {
+    color: #fff;
+}
+
+.table-wrapped-scroll-cls .fc-timeGridWeek-button {
+    color: #222;
+}
+
+.table-wrapped-scroll-cls .fc-timeGridDay-button {
+    color: #222;
+}
+
+.table-wrapped-scroll-cls .fc-button-primary {
+    background: transparent;
+    border-color: #222;
+    color: #222;
+}
+
+.table-wrapped-scroll-cls .fc-button .fc-icon {
+    color: #222;
+}
+
+.table-wrapped-scroll-cls .fc-today-button {
+	background: #0fa8a4 !important;
+    border-color: #0fa8a4 !important;
+	color: #fff;
+}
+
+.table-wrapped-scroll-cls .fc-header-toolbar {
+    padding-top: 30px;
+}
+
+.learnpress #learn-press-profile.lp-user-profile #profile-sidebar #profile-nav .instructor {
+    display: none;
+}
+
+.user-listing-typed-all {
+   padding: 20px 0 0px 0;
+    background: #fff;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.accept-reject-cls p {
+    padding: 0px;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+    margin-bottom: 0px;
+}
+
+.input-type-added-all {
+    display: flex;
+    align-items: center;
+    gap: 0 13px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+}
+
+.linekd-child-adding {
+    background: #fff;
+    border-radius: 20px;
+	margin-top: 20px;
+}
+
+.form-type-head-cls {
+    padding: 20px;
+}
+
+.user-listing-typed-all ul li {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(0 0 0 / 70%);
+    padding-bottom: 15px;
+	word-wrap: break-word;
+    white-space: break-spaces;
+}
+
+.user-listing-typed-all a {
+    padding: 0px 0 0px 8px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 19px;
+    color: rgb(0 0 0 / 70%);
+    font-family: "Urbanist", Sans-serif;
+    line-height: 24px;
+    text-decoration: underline;
+}
+
+#profile-content-quizzes .info {
+    border-radius: 10px;
+}
+
+.grade-type-cls-adding-here {
+	background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 0px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.link-child-added-cls-all:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.grid-type-cls-added {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    align-items: center;
+	gap: 0 10px;
+}
+
+.grid-type-cls-added input[type="text"] {
+    width: 100%;
+}
+
+.link-child-added-cls-all {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    margin-left: 10px;
+    text-transform: capitalize !important;
+    transition: all 0.3s ease;
+    color: #fff !important;
+}
+
+.table-wrapped-scroll-cls .fc-button-primary:focus {
+    box-shadow: none;
+}
+
+.accept-reject-cls-adding-type {
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+	padding: 20px;
+}
+
+.table-wrapped-scroll-cls .fc-button-primary:active {
+    background: transparent !important;
+    border-color: #222 !important;
+}
+
+.table-wrapped-scroll-cls .fc-button-primary:active .fc-icon {
+    color: #222;
+}
+
+.fc .fc-button-primary:focus, .fc .fc-button-primary:not(:disabled).fc-button-active:focus, .fc .fc-button-primary:not(:disabled):active:focus {
+	box-shadow: none;
+}
+
+.start-eduction-journey-us-cls {
+    position: sticky;
+    top: 3px;
+    z-index: 10;
+    align-self: flex-start;
+}
+
+.btn-icon .enroll-course .learn-press-message.success {
+    margin-left: 15px !important;
+    padding: 15px 15px 15px 15px !important;
+}
+
+.woocommerce-checkout .woocommerce-info {
+    background: #fff !important;
+    border-radius: 10px !important;
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+    justify-content: center;
+    gap: 0 6px !important;
+	margin-bottom: 20px !important;
+}
+
+.woocommerce-checkout .woocommerce-info::before {
+    position: initial !important;
+    transform: initial !important;
+    color: #0fa8a4 !important;
+}
+
+.woocommerce-checkout .woocommerce h3 {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 100%) !important;
+}
+
+.woocommerce-checkout .woocommerce label {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #222;
+}
+
+.woocommerce-checkout .woocommerce .optional {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #222;
+}
+
+.woocommerce-checkout .woocommerce .form-row-wide label {
+    display: flex;
+    align-items: center;
+    gap: 0 3px;
+}
+
+.woocommerce-checkout .woocommerce input[type="checkbox"] {
+    border: 1px solid #222222B2;
+    border-radius: 50%;
+    width: 20px !important;
+    height: 20px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.woocommerce-checkout .woocommerce input[type="checkbox"]:checked {
+    background-color: #0fa8a4;
+    border-color: #0fa8a4;
+}
+
+.woocommerce-checkout .woocommerce input[type="checkbox"]:checked::before {
+    color: #fff;
+    font-size: 11px;
+}
+
+.woocommerce-checkout .woocommerce #new_children_wrapper .form-row label {
+    width: 19%;
+}
+
+.woocommerce-checkout .woocommerce #new_children_wrapper .form-row {
+    display: flex;
+    align-items: center;
+    gap: 0 12px;
+}
+
+.woocommerce-checkout .woocommerce .input-text {
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 50px 50px 50px 50px;
+    color: #222222;
+    background: #fff;
+    border-color: #FFFFFF00;
+    line-height: 20px;
+    caret-color: #0FA8A4;
+    width: 100%;
+}
+
+.woocommerce-checkout .woocommerce .input-text::placeholder {
+    color: rgb(34 34 34 / 70%) !important;
+    background: #fff;
+    border-color: #FFFFFF00;
+    line-height: 20px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout {
+    padding-top: 20px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-billing-fields__field-wrapper label {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    color: rgb(34 34 34 / 80%);
+	margin-bottom: 8px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .wc-credit-card-form .input-text {
+    padding: 15px !important;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 50px 50px 50px 50px !important;
+    color: #222222 !important;
+    background: #fff !important;
+    border-color: #FFFFFF00 !important;
+    line-height: 20px;
+    caret-color: #0FA8A4;
+    width: 100%;
+	font-size: 20px !important;
+    line-height: 24px !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .woocommerce-checkout-payment ul li .input-radio {
+    margin: -8px 7px 0 0 !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .wc-credit-card-form .input-text::placeholder {
+	color: rgb(34 34 34 / 70%) !important;
+    background: #fff;
+    border-color: #FFFFFF00;
+    line-height: 20px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-input-wrapper .input-text {
+    padding: 15px !important;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 50px 50px 50px 50px !important;
+    color: #222222 !important;
+    background: #fff !important;
+    border-color: #FFFFFF00 !important;
+    line-height: 20px;
+    caret-color: #0FA8A4;
+    width: 100%;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-input-wrapper .input-text::placeholder {
+    color: rgb(34 34 34 / 70%) !important;
+    background: #fff;
+    border-color: #FFFFFF00;
+    line-height: 20px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-additional-fields #order_comments_field textarea {
+    border-radius: 13px !important;
+    resize: none;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .select2-container .select2-selection {
+    width: 100%;
+    padding: 20px 15px 20px 15px;
+    border-radius: 50px !important;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: rgb(34 34 34 / 80%) !important;
+    -webkit-appearance: none;
+    background: rgb(34 34 34 / 10%) no-repeat center right 22px / 0.8em url(data:image/svg+xml;base64,Cjxzdmcgd2lkdGg9IjE4cHgiIGhlaWdodD0iMTBweCIgdmlld0JveD0iMCAwIDE4IDEwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTk5L3hsaW5rIj4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+CiAgICAgICAgPGcgaWQ9IlZlY3Rvci0oMSkiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAxLjAwMDAwMCkiIHN0cm9rZT0iIzMzMzMzMyIgc3Ryb2tlLXdpZHRoPSIyIj4KICAgICAgICAgICAgPHBvbHlsaW5lIGlkPSJQYXRoIiBwb2ludHM9IjAgMCA4IDggMTYgMCI+PC9wb2x5bGluZT4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==) !important;
+    display: flex;
+    align-items: center;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .select2-container .select2-selection__arrow {
+    display: none;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-input-wrapper .input-text:focus::placeholder{
+	color: #222 !important;
+}
+
+.select2-container.select2-container--open .select2-dropdown .select2-search__field {
+    padding: 15px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 50px 50px 50px 50px !important;
+    color: #222222 !important;
+    background: #e1e1e1 !important;
+    border-color: #FFFFFF00;
+    line-height: 20px;
+    caret-color: #0FA8A4;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.select2-container.select2-container--open .select2-dropdown .select2-search__field::placeholder{
+	color: rgb(34 34 34 / 70%) !important;
+    background: #fff;
+    border-color: #FFFFFF00;
+    line-height: 20px;
+}
+
+.select2-container--default .select2-results__option[aria-selected=true], .select2-container--default .select2-results__option[data-selected=true] {
+    background-color: transparent;
+}
+
+.woocommerce form .form-row.woocommerce-validated .select2-container:not(.select2-container--open) .select2-selection {
+    border-color: #0fa8a4;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .select2-container .select2-selection .select2-selection__placeholder {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: rgb(34 34 34 / 80%) !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-additional-fields .form-row .checkbox {
+    padding-left: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-additional-fields .form-row .checkbox input[type="checkbox"]:checked {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-additional-fields label {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    color: rgb(34 34 34 / 80%);
+    margin-bottom: 8px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set {
+    background: #fff;
+    border-radius: 10px !important;
+    padding: 20px 20px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set table th, .woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set table td {
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set table th {
+    color: rgb(34 34 34 / 100%) !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set table .product-quantity {
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .form-row.place-order .woocommerce-privacy-policy-text p .woocommerce-privacy-policy-link {
+    color: #0fa8a4;
+    font-family: "Urbanist", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-decoration: underline;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set table .variation-CourseDuration {
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set table bdi {
+    font-family: "Urbanist", Sans-serif !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .form-row.place-order .woocommerce-privacy-policy-text p {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    color: rgb(34 34 34 / 80%);
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .form-row.place-order .button.alt {
+    font-size: 20px !important;
+    line-height: 20px !important;
+    border: 1px solid #0FA8A4 !important;
+    background: #0FA8A4 !important;
+    color: #fff !important;
+    font-weight: 500 !important;
+    font-family: "Urbanist", Sans-serif !important;
+    padding: 19px 30px 19px 30px !important;
+    text-transform: capitalize !important;
+    border-radius: 50px 50px 50px 50px !important;
+    transition: all .3s ease;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .form-row.place-order .button.alt:hover {
+    color: #0FA8A4 !important;
+    background: #fff !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_box {
+    background-color: #FAFAFA !important;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_box::before {
+    border: 1em solid #f7f7f7 !important;
+    border-right-color: transparent !important;
+    border-left-color: transparent !important;
+    border-top-color: transparent !important;
+}
+
+.woocommerce-checkout .woocommerce-info .showcoupon {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet p {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: rgb(34 34 34 / 80%);
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet strong {
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+    color: rgb(34 34 34 / 80%);
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet a {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    color: rgb(15 168 164);
+    font-family: "Urbanist", Sans-serif;
+    text-decoration: underline;
+}
+
+.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet .woocommerce-validated label {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    color: rgb(34 34 34 / 80%);
+    font-family: "Urbanist", Sans-serif;
+    margin-bottom: 8px;
+}
+
+.table-wrapped-scroll-cls .fc-scrollgrid-section .fc-scroller {
+    overflow: auto !important;
+}
+
+.woocommerce-order .woocommerce-thankyou-order-received {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26px;
+    font-family: "Urbanist", Sans-serif;
+    color: rgb(34 34 34 / 80%);
+}
+
+.woocommerce-order ul li {
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce-order ul li strong{
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce-order p {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26px;
+    font-family: "Urbanist", Sans-serif;
+    color: rgb(34 34 34 / 80%);
+}
+
+.woocommerce .woocommerce-order .order_item .woocommerce-table__product-name {
+    padding-left: 0px;
+}
+
+.woocommerce .woocommerce-order .order_item .woocommerce-table__product-name a {
+    color: #0fa8a4;
+}
+
+.woocommerce .woocommerce-order .order_item a {
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce .woocommerce-order address {
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce .woocommerce-order .order_item strong {
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce .woocommerce-order .order_item span {
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce .woocommerce-order .order_item bdi {
+    font-family: "Urbanist", Sans-serif;
+}
+
+.woocommerce-customer-details--email {
+    display: flex;
+    align-items: center;
+    padding-left: 27px !important;
+}
+
+.woocommerce-customer-details--email::before {
+    font-size: 16px !important;
+}
+
+.woocommerce-order-details .woocommerce-table--order-details tfoot th {
+    font-size: 22px !important;
+    line-height: 26px;
+}
+
+.woocommerce-order-details .woocommerce-table--order-details tfoot .woocommerce-Price-amount {
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.woocommerce-order-details .woocommerce-table--order-details tfoot td {
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.starting-payment {
+    background: #fff;
+    border-radius: 20px;
+}
+
+.starting-payment p {
+    font-size: 22px;
+    font-weight: 400;
+    font-family: "Urbanist", Sans-serif;
+    line-height: 26px;
+    color: rgb(34 34 34 / 80%);
+    margin-bottom: 0px;
+    padding: 5px 5px 5px 5px;
+}
+
+.course-students .value {
+    display: none;
+}
+
+.same-for-all-btn-bg-added:hover {
+    background: #ffffff !important;
+    color: #0fa8a4 !important;
+    border-color: #0fa8a4 !important;
+}
+
+.same-for-all-btn-bg-added {
+    color: #fff !important;
+    border-radius: 44px !important;
+    padding: 4px 14px !important;
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 17px !important;
+    width: auto;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+    border: 1px solid #0fa7a4 !important;
+    transition: all .3s ease;
+    font-family: "Urbanist", Sans-serif;
+    background: #0fa7a4 !important;
+	width: 100%;
+}
+
+.approve-cls-adding-all {
+    margin-bottom: 8px;
+}
+
+.back-to-list-cls-adding {
+    background: #0fa8a4 !important;
+    border: 1px solid #0fa8a4 !important;
+    border-radius: 44px !important;
+    padding: 10px 25px !important;
+    font-size: 20px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+    font-family: "Urbanist", Sans-serif !important;
+    text-transform: capitalize !important;
+    transition: all 0.3s ease;
+}
+
+.back-to-list-cls-adding:hover {
+    background: #fff !important;
+    border-color: #0fa8a4 !important;
+    color: #0fa8a4 !important;
+}
+
+.view-submission-cls-adding {
+    padding-top: 30px;
+}
+
+.inner-profile-added-view {
+    background: #fff;
+    border-radius: 20px;
+}
+
+.inside-type-added-learn {
+    padding: 20px;
+}
+
+.inside-type-added-learn p {
+    background: transparent !important;
+    border-radius: 0px !important;
+    justify-content: flex-start !important;
+    margin-bottom: 0px;
+    padding: 7px 0 7px 0 !important;
+    text-align: left !important;
+    gap: 0 15px;
+    font-size: 22px !important;
+    line-height: 26px !important;
+}
+
+.taken-width-type {
+    min-width: 21%;
+}
+
+.taken-span-width {
+    min-width: 79%;
+}
+
+#highlight-question-cls {
+    font-weight: 600 !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+
+.instruct-detail .thim-ekit-single-course__instructor .thim-ekit-single-course__instructor__content .thim-ekit-single-course__instructor__title a {
+    pointer-events: none;
+}
+
+.meet-some-our-top-tutors-cls-adding .elementor-widget-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.meet-some-our-top-tutors-cls-adding .elementor-shortcode {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.new-tutor-stoke-info-cls-adding .new-tutor-avatar-cls-adding .avatar {
+    min-height: 320px;
+    border-radius: 20px 20px 20px 20px;
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.new-tutor-details-cls-adding .sub-heading-our-tutorstok a {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #222;
+}
+
+.new-tutor-stoke-info-cls-adding {
+    overflow: hidden;
+	position: relative;
+}
+
+.new-tutor-details-cls-adding {
+    background: #fff;
+    border-radius: 20px 20px 20px 20px;
+    position: absolute;
+    bottom: -100%;
+    width: calc(100% - 15px);
+    text-align: center;
+    transform: translateX(-50%);
+    left: 50%;
+    margin: 0 0 7px;
+	transition: all 0.5s ease;
+}
+
+.new-tutor-stoke-info-cls-adding:hover .new-tutor-details-cls-adding {
+	bottom: 0%;
+}
+
+.new-tutor-details-cls-adding .sub-heading-our-tutorstok {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.new-tutor-details-cls-adding .new-star-rating-custom .rating-number {
+    font-family: "Urbanist", Sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #222;
+}
+
+.new-tutor-details-cls-adding .new-star-rating-custom .new-custom-star-rating-empty {
+    color: #ffcf26;
+    font-size: 28px;
+}
+
+.new-tutor-details-cls-adding .new-star-rating-custom .full {
+    font-size: 28px;
+    color: #ffcf26;
+}
+
+.new-tutor-details-cls-adding .new-star-rating-custom .half {
+    font-size: 28px;
+    color: #ffcf26;
+}
+
+.video_testimonial_main .content-wrap {
+    width: 100%;
+    height: 100%;
+}
+
+.video_testimonial_main .content-box-group {
+    height: calc(100% - 60px);
+}
+
+.video_testimonial_main:before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: url(../../../../uploads/2025/05/play-pause-arrow.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 90px;
+    height: 90px;
+    background-size: contain;
+    z-index: 1;
+}
+
+.cv-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cv-modal__content video {
+    box-shadow: 0px 0px 50px 30px #FFFFFF29;
+    border: 2.5px solid #FFFFFF33;
+    border-radius: 30px;
+ 	width: 504px;
+    height: 409px !important;
+}
+
+.cv-modal__content .cv-modal__close {
+    background: transparent;
+    position: absolute;
+    right: 0;
+    top: 25px;
+    font-size: 41px;
+}
+
+.cv-modal .client-profile-wrap .video_testimonial img {
+    width: 70px;
+    height: 70px !important;
+    border-radius: 20px;
+}
+
+.cv-modal .client-profile-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.cv-modal .client-profile-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: absolute;
+    bottom: 24px;
+    left: 15px;
+}
+
+.cv-modal .client-name-wrap .thim-ekits-testimonial__name {
+    color: #fff;
+    font-size: 32px;
+    font-family: "Urbanist", sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    max-width: 13ch;
+}
+
+.cv-modal .client-name-wrap span {
+    font-size: 18px;
+    font-family: "Urbanist", sans-serif;
+    font-weight: 400;
+    line-height: 1.2;
+    color: #fff;
+}
+
+.cv-modal__body {
+    position: relative;
+}
+
+.modal-video-wrapper video::-webkit-media-controls,
+.modal-video-wrapper video::-webkit-media-controls-enclosure {
+  display: none !important;
+}
+
+.cv-modal .client-name-wrap .client-name {
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+.cv-modal .review-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.cv-modal__body:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 11px;
+    width: 100%;
+    height: 100px;
+    border-radius: 20px 20px 30px 30px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.8) 66.55%);
+    border: none;
+}
+
+.subscribe-form .contact-form label {
+    color: #0fa8a4;
+    line-height: 18px;
+}
+
+.icon-btn .grid-2 {
+	align-items: center;
+}
+
+.icon-btn .grid-2 {
+    align-items: center;
+}
+@media only screen and (max-width: 1024px){
+	.new-tutor-details-cls-adding .sub-heading-our-tutorstok a {
+		font-size: 18px;
+		line-height: 22px;
+	}
+	
+	.new-tutor-details-cls-adding .new-star-rating-custom .rating-number {
+		 font-size: 16px;
+    	 line-height: 20px;
+	}
+
+	.inside-type-added-learn p {
+	        font-size: 16px !important;
+        line-height: 20px !important;
+        flex-direction: column;
+        align-items: flex-start !important;
+        justify-content: flex-start !important;
+        gap: 5px;
+	}
+	
+	.accept-reject-cls p {
+		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	.starting-payment p {
+		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	.woocommerce-order-details .woocommerce-table--order-details tfoot th {
+    	font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+
+	.woocommerce-order-details .woocommerce-table--order-details tfoot .woocommerce-Price-amount {
+      	font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+
+	.woocommerce-order-details .woocommerce-table--order-details tfoot td {
+ 		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet .input-text {
+    	width: 100% !important;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet p {
+		width: 100%;	
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .form-row.place-order .button.alt {
+		font-size: 20px !important;
+    	line-height: 24px !important;
+	}
+	
+	.woocommerce-checkout .woocommerce .optional {
+		font-size: 14px;
+    	line-height: 18px;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-additional-fields label {
+    	font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce h3 {
+		font-size: 20px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce-info {
+    	font-size: 18px;
+    	line-height: 22px;
+	}
+	
+	.woocommerce-checkout .woocommerce-info .showcoupon {
+    	font-size: 18px;
+    	line-height: 22px;
+	}
+	
+	.btn-icon .enroll-course .learn-press-message.success {
+		margin-left: 0px !important;
+	}
+	
+	.start-eduction-journey-us-cls {
+		position: relative;	
+	}
+	
+	.accept-req { 
+		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	
+	.reject-req {
+		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	
+	.link-child-added-cls-all {
+	    font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	
+	.left-side-added-webinar .add-innar-title-cls-adding-here {
+    	font-size: 22px;
+    	line-height: 28px;
+	}
+	
+	.template-function-worked-cls-adding .cancel-template-typed-cls-adding { 
+		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	
+	.save-template-typed-cls-adding {
+		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	
+	.main-add-webinar-typed .add-webinar-type-cls-adding-here {
+		font-size: 18px !important;
+    	line-height: 22px !important;
+	}
+	
+	.preferred-course-typed-cls .lp-course-card h3 {
+		font-size: 20px;
+    	line-height: 24px;
+	}
+	
+	.new-course-price-type-cls-adding-here {
+		font-size: 26px;
+    	line-height: 36px;
+	}
+	
+	.pendingpayment-req .pending-parent-link {
+		font-size: 24px;
+    	line-height: 28px;
+	}
+	
+	.nopending-req-all {
+		font-size: 18px;
+    	line-height: 22px;
+	}
+	
+	.sub-heading-parents {
+		font-size: 24px;
+    	line-height: 28px;
+	}
+	
+	.linked-parent-cls {
+		font-size: 18px;
+    	line-height: 22px;
+	}
+	
+	.heading-sub-type .subheading-student {
+		 font-size: 26px;
+    	 line-height: 30px;
+	}
+	
+	.view-chart-btn .view-chart-btn-cls-adding {
+		 font-size: 18px !important;
+		 line-height: 22px !important;  
+	}
+	
+	.chart-section-edit-here .common-btn-type-here {
+		 font-size: 18px !important;
+		 line-height: 22px !important;
+	}
+	
+	.heading-chart-point {
+		 font-size: 20px;
+    	 line-height: 24px;
+	}
+	
+	.heading-sub-type .subheading-student {
+		margin-top: 18px;
+	}
+	
+	.middle-graph-chart {
+    	grid-template-columns: repeat(1, 2fr);
+	}
+	
+	.canvas-graph-cls-adding-here {
+    	padding-bottom: 13px;
+	}
+	
+	.new-form-input-cls-adding .event-wrapper-shortcode h3 {
+		font-size: 18px;
+    	line-height: 22px;
+	}
+	
+	.form-cls-register {
+    	grid-template-columns: repeat(2, 3fr);
+	}
+	
+	.new-controlright-graph-set {
+		padding-top: 10px;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.cv-modal__content video {
+		width: 344px;
+    	height: 279px !important;
+	}
+	
+	.meet-some-our-top-tutors-cls-adding .elementor-shortcode {
+		grid-template-columns: repeat(1, 1fr);
+	}
+	
+	.inside-type-added-learn p {
+		  font-size: 16px !important;
+    line-height: 20px !important;
+	}
+	
+	.woocommerce-checkout .wrapper-container h2 {
+			font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	.woocommerce ul.order_details {
+    margin-bottom: 15px;
+}
+	.accept-reject-cls p {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	.input-type-added-all {
+    	padding-left: 0px;
+	}
+	
+	.accept-reject-cls-adding-type {
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: flex-start;
+		gap: 15px;
+	}
+	
+	.starting-payment p {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.woocommerce-order p {
+		font-size: 14px !important;
+        line-height: 18px !important;
+	}
+	
+	.woocommerce-customer-details--email::before {
+    font-size: 14px !important;
+}
+	
+	.woocommerce-order-details .woocommerce-table--order-details tfoot th {
+    	font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+
+	.woocommerce-order-details .woocommerce-table--order-details tfoot .woocommerce-Price-amount {
+   font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+
+	.woocommerce-order-details .woocommerce-table--order-details tfoot td {
+ 		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .form-row.place-order .button.alt {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet strong {
+	    font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set .payment_method_authnet p {
+		font-size: 14px;
+    	line-height: 18px;
+	}
+	
+	.woocommerce-checkout .woocommerce label {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .inner-col-set table th {
+		font-size: 16px !important;
+		line-height: 20px !important;
+	}
+	
+	.woocommerce-checkout .woocommerce .optional {
+        font-size: 12px;
+        line-height: 16px;
+    }
+	
+	 .woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-additional-fields label {
+        font-size: 14px;
+        line-height: 18px;
+    }
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-input-wrapper .input-text {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .select2-container .select2-selection {
+	    font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce h3 {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce .woocommerce-checkout .woocommerce-billing-fields__field-wrapper label {
+    	font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce-info::before {
+		font-size: 16px !important;
+	}
+	
+	.woocommerce-checkout .woocommerce-info {
+    	padding-left: 15px !important;
+    	font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.woocommerce-checkout .woocommerce-info .showcoupon {
+    	font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.table-wrapped-scroll-cls .fc-header-toolbar {
+		flex-direction: column;
+    	gap: 15px 0px;
+	}
+	
+	.grid-type-cls-added {
+    	grid-template-columns: repeat(1, 1fr);
+	}
+	
+	.accept-req { 
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.reject-req {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.linekd-child-adding input[type="text"] {
+    	width: 100%;
+	}
+	
+	.linekd-child-adding .link-child-added-cls-all {
+    	margin-left: 0px;
+    	margin-top: 20px;
+	}
+	
+	.user-listing-typed-all ul li {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.user-listing-typed-all a {
+		padding: 0px 0 0px 0px;
+		font-size: 16px;
+		line-height: 20px;
+	}
+	
+	.link-child-added-cls-all {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.add-inner-webmodal-cls-adding input {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.add-inner-webmodal-cls-adding select {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.left-side-added-webinar .add-innar-title-cls-adding-here {
+    	font-size: 18px;
+    	line-height: 22px;
+	}
+	
+	.template-function-worked-cls-adding .cancel-template-typed-cls-adding { 
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.save-template-typed-cls-adding {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.main-add-webinar-typed .add-webinar-type-cls-adding-here {
+		font-size: 16px !important;
+    	line-height: 20px !important;
+	}
+	
+	.course-start-now .new-start-button-enroll-cls-adding-here {
+		font-size: 18px;
+    	line-height: 22px;
+	}
+	
+	.preferred-course-typed-cls .lp-course-card h3 {
+		font-size: 18px;
+    	line-height: 22px;
+		min-height: unset;
+	}
+	
+	.min-h-set-only-this-cls {
+		min-height: unset;
+	}
+	
+	.new-course-price-type-cls-adding-here {
+		font-size: 22px;
+    	line-height: 32px;
+	}
+	
+	.pendingpayment-req .pending-parent-link {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.nopending-req-all {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.sub-heading-parents {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.linked-parent-cls {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.new-order-downloaded-here .paragraph-type-cls .new-order-details-cls-download {
+    	margin-top: 10px;
+	}
+	
+	.strong-tag-cls {
+		 font-size: 16px !important;
+		 line-height: 20px !important;
+	}
+	
+	.paragrph-chart-point {
+		  font-size: 16px !important;
+		 line-height: 20px !important;
+	}
+	
+	.new-controlright-graph-set {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px 0px;
+	}
+	
+	.components-button-group {
+    	display: grid;
+    	grid-template-columns: repeat(1, 2fr);
+    	gap: 10px;
+	}
+	
+	.heading-sub-type .subheading-student {
+		 font-size: 24px;
+    	 line-height: 28px;
+	}
+	
+	.view-chart-btn .view-chart-btn-cls-adding {
+		 font-size: 16px !important;
+		 line-height: 20px !important;
+	}
+	
+	.chart-section-edit-here .common-btn-type-here {
+		 font-size: 16px !important;
+		 line-height: 20px !important;
+	}
+	
+	.heading-chart-point {
+		 font-size: 16px !important;
+		 line-height: 20px !important;
+	}
+	
+	.form-cls-register {
+    	grid-template-columns: repeat(1, 3fr);
+	}
+	
+	.new-form-input-cls-adding .event-wrapper-shortcode h3 {
+		font-size: 16px;
+    	line-height: 20px;
+	}
+	
+	.new-form-input-cls-adding .event-wrapper-shortcode span {
+		font-size: 16px;
+		line-height: 20px;
+	}
+}
+/* New css 8th May over here */
+
+@media only screen and (max-width: 1699px) {
+    .testimonial-custom .swiper-slide.box-wrapper:hover .content-wrap {
+        transform: translateY(-14%);
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .testimonial-custom .swiper-slide.box-wrapper:hover .content-wrap {
+        opacity: 1;
+        transform: translateY(-24%);
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .testimonial-custom .swiper-slide.box-wrapper:hover .content-wrap, .testimonial-custom .swiper-slide.box-wrapper .content-wrap {
+        opacity: 1 !important;
+        transform: translateY(-16%);
+    }
+}
