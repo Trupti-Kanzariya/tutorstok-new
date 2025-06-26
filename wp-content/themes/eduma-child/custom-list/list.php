@@ -28,7 +28,7 @@ if ( ! $query_orders->get_items() ) {
 <table class="lp-list-table profile-list-orders profile-list-table">
 	<thead>
 		<tr class="order-row">
-			<th class="column-order-number"><?php esc_html_e( 'Order', 'learnpress' ); ?></th>
+			<th class="column-order-number"><?php esc_html_e( 'Orders', 'learnpress' ); ?></th>
 			<th class="column-order-total"><?php esc_html_e( 'Total', 'learnpress' ); ?></th>
 			<th class="column-order-status"><?php esc_html_e( 'Status', 'learnpress' ); ?></th>
 			<th class="column-order-date"><?php esc_html_e( 'Date', 'learnpress' ); ?></th>
