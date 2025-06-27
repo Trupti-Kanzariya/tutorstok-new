@@ -22,15 +22,15 @@ if ( ! $query_orders->get_items() ) {
 }
 ?>
 
-<h3 class="profile-heading"><?php esc_html_e( 'Transactions', 'learnpress' ); ?></h3>
+<h3 class="profile-heading"><?php esc_html_e('Transactions', 'learnpress'); ?></h3>
 
 <div class="custom-table-wrapper">
 <table class="lp-list-table profile-list-orders profile-list-table">
 	<thead>
 		<tr class="order-row">
-			<th class="column-order-number"><?php esc_html_e( 'Orders', 'learnpress' ); ?></th>
-			<th class="column-order-total"><?php esc_html_e( 'Total', 'learnpress' ); ?></th>
-			<th class="column-order-status"><?php esc_html_e( 'Status', 'learnpress' ); ?></th>
+			<th class="column-order-number"><?php esc_html_e('Order', 'learnpress'); ?></th>
+			<th class="column-order-total"><?php esc_html_e('Total', 'learnpress'); ?></th>
+			<th class="column-order-status"><?php esc_html_e('Status', 'learnpress'); ?></th>
 			<th class="column-order-date"><?php esc_html_e( 'Date', 'learnpress' ); ?></th>
 			<th class="column-order-actions"><?php esc_html_e( 'Actions', 'learnpress' ); ?></th>
 		</tr>

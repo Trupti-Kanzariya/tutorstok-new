@@ -56,7 +56,7 @@ function remove_script_not_on_homepage() {
 
 
 
-
+require get_stylesheet_directory() . '/tutor-auth.php';
 require get_stylesheet_directory() . '/inc/template-functions.php';
 require get_stylesheet_directory() . '/inc/custom-function.php';
 
@@ -5993,3 +5993,4 @@ function remove_thim_edit_item_link() {
 	remove_action( 'learn-press/after-course-item-content', 'thim_content_item_edit_link', 3 );
 }
 add_action( 'init', 'remove_thim_edit_item_link' );
+
